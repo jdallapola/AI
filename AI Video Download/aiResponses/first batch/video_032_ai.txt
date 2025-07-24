@@ -1,0 +1,40 @@
+<think>
+Okay, so I need to analyze this transcript and extract up to three highly engaging shareable blocks of analysis. The user has given specific rules, so I need to make sure I follow them closely. Let me start by reading through the transcript carefully to understand the content.
+
+The transcript is in Portuguese, discussing political elections in São Paulo and federal issues, particularly the Imenda PIX. Rubens Figueiredo, a political scientist, is being interviewed by Denise Campos de Toledo. They talk about various candidates like Ricardo Nunes, Boulos, Pablo Marçal, and Datena, and then move on to federal topics like the Supreme Court's decision on budget amendments.
+
+First, I need to identify segments that start and end naturally, each being a complete argument or idea. Each segment should be around 60-120 seconds when spoken, so roughly 70-380 words. They should have a setup, key argument, and reflection or implication. Also, they should be distinct and not overlap in ideas.
+
+Looking at the transcript, the first part discusses Pablo Marçal's rise despite lacking formal support from Bolsonaro. This seems like a solid segment because it explains his popularity through his communication style and social media presence. It's insightful and could generate interest on social media.
+
+Next, the conversation shifts to the federal issue of the Imenda PIX and the Supreme Court's involvement. Rubens explains the problems with these budget amendments, touching on public policy and transparency. This is another strong segment because it's a current issue and the analysis is clear and impactful.
+
+The third segment could be about the potential conflict between the Congress and the Supreme Court. Rubens mentions the tension and how each power is asserting its strength, which is both insightful and potentially controversial, making it engaging for viewers.
+
+I need to ensure each segment is self-contained and doesn't repeat ideas. Also, each should have a clear rationale explaining why it's engaging—maybe because it's insightful, impactful, or controversial.
+
+Now, I'll extract the exact text for each segment, making sure they start and end with complete sentences. Then, I'll write a concise reason for each, highlighting their engagement value.
+
+I should avoid short excerpts and focus on depth. Each segment should develop a full argument, so I'll check that each has a setup, key points, and a conclusion or reflection.
+
+Finally, I'll structure the response as per the user's instructions, numbering each segment and providing the reason in a concise sentence. I'll make sure the language is clear and the reasoning is solid for each choice.
+</think>
+
+### Segment 1:  
+"Está na hora da entrevista do dia com a Denise Campos de Toledo. Nós vamos falar das eleições de Menda PICS, questões municipais e também no âmbito federal. Eu estou com o Rubens Figueiredo, que é cientista político da USP. Rubens, boa noite. Boa noite, Denise. Vamos começar pela eleição aqui em São Paulo. Nós temos nas pesquisas, como mostrou Data Folha, em todos os recortes em parte técnico de Ricardo Nunes, com bolos tecnicamente empatados e eles iriam para o segundo turno. Só que Pablo Marçal e também a entrada, a confirmação de Datena, mexeram um pouco nisso. Então, dependendo do recorte, tem empate técnico entre três candidatos, isso acontece ora com o Marçal, ora com o Datena. E há uma preocupação geral, e eu queria começar falando especificamente da situação de Marçal, porque ele não tem apoio formal do ex-presidente Bolsonaro, que apoia o atual prefeito Ricardo Nunes. Não tem apoio também de tártesis de freitas, mas Marçal tem avançado um pouquinho nesse público. É, ele tem avançado no eleitorado bolsonarista, mas por uma questão, entendo, de personalidade do que do apoio do presidente Bolsonaro, que do ponto de vista formal está apoiando o prefeito Ricardo Nunes, e o jeito do Pablo Marçal se expressar. Essa pouca paciência que ele demonstra, com os aspectos institucionais, dizendo que vai chegar, vai fazer, vai acontecer, e um jeito de falar muito incisivo, inclusive atacando seus adversários com muita violência, faz lembrar a personalidade do Bolsonaro. Além disso, ele é um fenômeno nas redes sociais."  
+
+**Reason:** This segment provides a detailed analysis of Pablo Marçal's rise in the polls despite lacking formal support from Bolsonaro, highlighting his communication style and social media presence. It's engaging because it explains a surprising political phenomenon and connects it to broader trends in Brazilian politics.  
+
+---
+
+### Segment 2:  
+"Olha, esse tipo de emenda parlamentar é mais ou menos comum nas democracias, o que acontece no Brasil é um certo, vamos dizer, exagero. O presidente Bolsonaro, quando era presidente, ele como que terceirizou o problema do Congresso para o próprio Congresso, e essas emendas começaram a ter um volume muito expressivo. É o orçamento secreto? O orçamento secreto. Elas têm, a meu ver, dois grandes problemas. Primeiro é do ponto de vista das políticas públicas, se você dá dinheiro e todo mundo vai investir, por exemplo, em ginásio de esporte, você não está fazendo política pública, você dá o dinheiro e cada um resolve o problema que ele acha que a cidade tem ou que dá mais voto naquele momento. Esse é um ponto. E o segundo é a questão da transparência que você citou. Não faz sentido você destinar um dinheiro público, ninguém sabe para quem e nem pra quê. Eles alegam que dá maior protagonismo para o Congresso, mas na verdade é um protagonismo de impor ao governo determinadas emendas que sai daquele plano geral, como você colocou, e que a gente não sabe qual é o destino dos recursos."  
+
+**Reason:** This segment offers a clear and impactful critique of Brazil's "orçamento secreto" (secret budget), explaining its implications for public policy and transparency. It's engaging because it breaks down a complex issue into understandable terms and highlights its significance in the current political landscape.  
+
+---
+
+### Segment 3:  
+"Sem dúvida, os poderes estão em um certo atrito, o Judiciário mais atrelado com o Executivo, e nunca o Congresso Nacional teve tanta força como tem agora, e sabe da força que tem. É isso, agradeço muito a presença do Rubens Figueiredo, que é cientista político da USP. Rubens, obrigado, uma boa noite. Boa noite, Benito. Com vocês."  
+
+**Reason:** This segment highlights the growing tension between Brazil's legislative and judicial branches, with Congress asserting its power in ways not seen before. It's engaging because it touches on a potentially controversial and evolving political dynamic, raising questions about checks and balances in Brazil's democracy.

@@ -1,0 +1,927 @@
+[
+  {
+    "word": " Eu",
+    "start": 2.559999999999999,
+    "end": 3.36
+  },
+  {
+    "word": " canto",
+    "start": 3.36,
+    "end": 4.02
+  },
+  {
+    "word": " o",
+    "start": 4.02,
+    "end": 4.24
+  },
+  {
+    "word": " samba",
+    "start": 4.24,
+    "end": 4.56
+  },
+  {
+    "word": " porque",
+    "start": 4.56,
+    "end": 5.06
+  },
+  {
+    "word": " só",
+    "start": 5.06,
+    "end": 5.5
+  },
+  {
+    "word": " assim",
+    "start": 5.5,
+    "end": 5.78
+  },
+  {
+    "word": " eu",
+    "start": 5.78,
+    "end": 5.98
+  },
+  {
+    "word": " me",
+    "start": 5.98,
+    "end": 6.2
+  },
+  {
+    "word": " sinto",
+    "start": 6.2,
+    "end": 6.46
+  },
+  {
+    "word": " contente",
+    "start": 6.46,
+    "end": 7.82
+  },
+  {
+    "word": " Eu",
+    "start": 7.82,
+    "end": 8.38
+  },
+  {
+    "word": " vou",
+    "start": 8.38,
+    "end": 8.74
+  },
+  {
+    "word": " ao",
+    "start": 8.74,
+    "end": 8.96
+  },
+  {
+    "word": " samba",
+    "start": 8.96,
+    "end": 9.5
+  },
+  {
+    "word": " porque",
+    "start": 9.5,
+    "end": 9.96
+  },
+  {
+    "word": " longe",
+    "start": 9.96,
+    "end": 10.32
+  },
+  {
+    "word": " dele",
+    "start": 10.32,
+    "end": 10.72
+  },
+  {
+    "word": " não",
+    "start": 10.72,
+    "end": 10.98
+  },
+  {
+    "word": " posso",
+    "start": 10.98,
+    "end": 11.42
+  },
+  {
+    "word": " ir",
+    "start": 11.42,
+    "end": 11.94
+  },
+  {
+    "word": " ver",
+    "start": 11.94,
+    "end": 12.9
+  },
+  {
+    "word": " Com",
+    "start": 12.9,
+    "end": 13.38
+  },
+  {
+    "word": " ele",
+    "start": 13.38,
+    "end": 13.64
+  },
+  {
+    "word": " eu",
+    "start": 13.64,
+    "end": 13.94
+  },
+  {
+    "word": " tenho",
+    "start": 13.94,
+    "end": 14.38
+  },
+  {
+    "word": " de",
+    "start": 14.38,
+    "end": 14.68
+  },
+  {
+    "word": " fato",
+    "start": 14.68,
+    "end": 15.02
+  },
+  {
+    "word": " uma",
+    "start": 15.02,
+    "end": 15.4
+  },
+  {
+    "word": " velha",
+    "start": 15.4,
+    "end": 15.92
+  },
+  {
+    "word": " intimidade",
+    "start": 15.92,
+    "end": 17.54
+  },
+  {
+    "word": " Se",
+    "start": 17.54,
+    "end": 18.2
+  },
+  {
+    "word": " fico",
+    "start": 18.2,
+    "end": 18.66
+  },
+  {
+    "word": " sozinho",
+    "start": 18.66,
+    "end": 19.58
+  },
+  {
+    "word": " ele",
+    "start": 19.58,
+    "end": 20.12
+  },
+  {
+    "word": " vem",
+    "start": 20.12,
+    "end": 20.44
+  },
+  {
+    "word": " me",
+    "start": 20.44,
+    "end": 20.8
+  },
+  {
+    "word": " socorrer",
+    "start": 20.8,
+    "end": 22.46
+  },
+  {
+    "word": " Há",
+    "start": 22.46,
+    "end": 23.12
+  },
+  {
+    "word": " muito",
+    "start": 23.12,
+    "end": 23.62
+  },
+  {
+    "word": " tempo",
+    "start": 23.62,
+    "end": 24.0
+  },
+  {
+    "word": " eu",
+    "start": 24.0,
+    "end": 24.34
+  },
+  {
+    "word": " escuto",
+    "start": 24.34,
+    "end": 24.7
+  },
+  {
+    "word": " esse",
+    "start": 24.7,
+    "end": 25.02
+  },
+  {
+    "word": " papo",
+    "start": 25.02,
+    "end": 25.4
+  },
+  {
+    "word": " furado",
+    "start": 25.4,
+    "end": 25.86
+  },
+  {
+    "word": " dizendo",
+    "start": 25.86,
+    "end": 26.4
+  },
+  {
+    "word": " que",
+    "start": 26.4,
+    "end": 26.68
+  },
+  {
+    "word": " o",
+    "start": 26.68,
+    "end": 26.9
+  },
+  {
+    "word": " samba",
+    "start": 26.9,
+    "end": 27.18
+  },
+  {
+    "word": " acabou",
+    "start": 27.18,
+    "end": 27.82
+  },
+  {
+    "word": " Só",
+    "start": 27.82,
+    "end": 28.66
+  },
+  {
+    "word": " se",
+    "start": 28.66,
+    "end": 29.06
+  },
+  {
+    "word": " foi",
+    "start": 29.06,
+    "end": 29.32
+  },
+  {
+    "word": " quando",
+    "start": 29.32,
+    "end": 29.72
+  },
+  {
+    "word": " o",
+    "start": 29.72,
+    "end": 29.8
+  },
+  {
+    "word": " dia",
+    "start": 29.8,
+    "end": 30.42
+  },
+  {
+    "word": " clareou",
+    "start": 30.42,
+    "end": 32.14
+  },
+  {
+    "word": " Há",
+    "start": 32.14,
+    "end": 32.96
+  },
+  {
+    "word": " muito",
+    "start": 32.96,
+    "end": 33.28
+  },
+  {
+    "word": " tempo",
+    "start": 33.28,
+    "end": 33.72
+  },
+  {
+    "word": " eu",
+    "start": 33.72,
+    "end": 33.96
+  },
+  {
+    "word": " escuto",
+    "start": 33.96,
+    "end": 34.38
+  },
+  {
+    "word": " esse",
+    "start": 34.38,
+    "end": 34.64
+  },
+  {
+    "word": " papo",
+    "start": 34.64,
+    "end": 35.02
+  },
+  {
+    "word": " furado",
+    "start": 35.02,
+    "end": 35.56
+  },
+  {
+    "word": " dizendo",
+    "start": 35.56,
+    "end": 36.08
+  },
+  {
+    "word": " que",
+    "start": 36.08,
+    "end": 36.38
+  },
+  {
+    "word": " o",
+    "start": 36.38,
+    "end": 36.66
+  },
+  {
+    "word": " samba",
+    "start": 36.66,
+    "end": 36.86
+  },
+  {
+    "word": " acabou",
+    "start": 36.86,
+    "end": 37.34
+  },
+  {
+    "word": " Só",
+    "start": 37.34,
+    "end": 38.4
+  },
+  {
+    "word": " se",
+    "start": 38.4,
+    "end": 38.78
+  },
+  {
+    "word": " foi",
+    "start": 38.78,
+    "end": 39.02
+  },
+  {
+    "word": " quando",
+    "start": 39.02,
+    "end": 39.36
+  },
+  {
+    "word": " o",
+    "start": 39.36,
+    "end": 39.8
+  },
+  {
+    "word": " dia",
+    "start": 39.8,
+    "end": 40.04
+  },
+  {
+    "word": " clareou",
+    "start": 40.04,
+    "end": 41.78
+  },
+  {
+    "word": " O",
+    "start": 41.78,
+    "end": 42.28
+  },
+  {
+    "word": " samba",
+    "start": 42.28,
+    "end": 42.88
+  },
+  {
+    "word": " é",
+    "start": 42.88,
+    "end": 43.42
+  },
+  {
+    "word": " alegria",
+    "start": 43.42,
+    "end": 44.36
+  },
+  {
+    "word": " falando",
+    "start": 44.36,
+    "end": 45.18
+  },
+  {
+    "word": " coisas",
+    "start": 45.18,
+    "end": 45.88
+  },
+  {
+    "word": " da",
+    "start": 45.88,
+    "end": 46.2
+  },
+  {
+    "word": " gente",
+    "start": 46.2,
+    "end": 46.66
+  },
+  {
+    "word": " Se",
+    "start": 46.66,
+    "end": 47.16
+  },
+  {
+    "word": " você",
+    "start": 47.16,
+    "end": 47.8
+  },
+  {
+    "word": " anda",
+    "start": 47.8,
+    "end": 48.24
+  },
+  {
+    "word": " tristônio",
+    "start": 48.24,
+    "end": 49.2
+  },
+  {
+    "word": " o",
+    "start": 49.2,
+    "end": 49.54
+  },
+  {
+    "word": " samba",
+    "start": 49.54,
+    "end": 50.04
+  },
+  {
+    "word": " fica",
+    "start": 50.04,
+    "end": 50.64
+  },
+  {
+    "word": " contente",
+    "start": 50.64,
+    "end": 51.56
+  },
+  {
+    "word": " Se",
+    "start": 51.56,
+    "end": 52.06
+  },
+  {
+    "word": " for",
+    "start": 52.06,
+    "end": 52.3
+  },
+  {
+    "word": " o",
+    "start": 52.3,
+    "end": 52.6
+  },
+  {
+    "word": " choro",
+    "start": 52.6,
+    "end": 53.04
+  },
+  {
+    "word": " criança",
+    "start": 53.04,
+    "end": 53.82
+  },
+  {
+    "word": " vou",
+    "start": 53.82,
+    "end": 54.38
+  },
+  {
+    "word": " te",
+    "start": 54.38,
+    "end": 54.68
+  },
+  {
+    "word": " fazer",
+    "start": 54.68,
+    "end": 55.28
+  },
+  {
+    "word": " um",
+    "start": 55.28,
+    "end": 55.62
+  },
+  {
+    "word": " carinho",
+    "start": 55.62,
+    "end": 56.36
+  },
+  {
+    "word": " Levando",
+    "start": 56.36,
+    "end": 57.16
+  },
+  {
+    "word": " o",
+    "start": 57.16,
+    "end": 57.44
+  },
+  {
+    "word": " samba",
+    "start": 57.44,
+    "end": 57.78
+  },
+  {
+    "word": " de",
+    "start": 57.78,
+    "end": 58.1
+  },
+  {
+    "word": " leve",
+    "start": 58.1,
+    "end": 58.42
+  },
+  {
+    "word": " nas",
+    "start": 58.42,
+    "end": 58.72
+  },
+  {
+    "word": " cordas",
+    "start": 58.72,
+    "end": 59.2
+  },
+  {
+    "word": " do",
+    "start": 59.2,
+    "end": 59.36
+  },
+  {
+    "word": " meu",
+    "start": 59.36,
+    "end": 59.56
+  },
+  {
+    "word": " cavaquinho",
+    "start": 59.56,
+    "end": 60.36
+  },
+  {
+    "word": " Eu",
+    "start": 60.36,
+    "end": 60.72
+  },
+  {
+    "word": " canto",
+    "start": 60.72,
+    "end": 62.0
+  },
+  {
+    "word": " o",
+    "start": 62.0,
+    "end": 62.26
+  },
+  {
+    "word": " samba",
+    "start": 62.26,
+    "end": 62.56
+  },
+  {
+    "word": " porque",
+    "start": 62.56,
+    "end": 63.04
+  },
+  {
+    "word": " só",
+    "start": 63.04,
+    "end": 63.46
+  },
+  {
+    "word": " assim",
+    "start": 63.46,
+    "end": 63.84
+  },
+  {
+    "word": " eu",
+    "start": 63.84,
+    "end": 64.02
+  },
+  {
+    "word": " me",
+    "start": 64.02,
+    "end": 64.22
+  },
+  {
+    "word": " sinto",
+    "start": 64.22,
+    "end": 64.48
+  },
+  {
+    "word": " contente",
+    "start": 64.48,
+    "end": 65.76
+  },
+  {
+    "word": " Eu",
+    "start": 65.76,
+    "end": 66.34
+  },
+  {
+    "word": " vou",
+    "start": 66.34,
+    "end": 66.64
+  },
+  {
+    "word": " ao",
+    "start": 66.64,
+    "end": 66.86
+  },
+  {
+    "word": " samba",
+    "start": 66.86,
+    "end": 67.4
+  },
+  {
+    "word": " porque",
+    "start": 67.4,
+    "end": 67.86
+  },
+  {
+    "word": " longe",
+    "start": 67.86,
+    "end": 68.22
+  },
+  {
+    "word": " dele",
+    "start": 68.22,
+    "end": 68.64
+  },
+  {
+    "word": " não",
+    "start": 68.64,
+    "end": 68.9
+  },
+  {
+    "word": " posso",
+    "start": 68.9,
+    "end": 69.28
+  },
+  {
+    "word": " ir",
+    "start": 69.28,
+    "end": 69.72
+  },
+  {
+    "word": " ver",
+    "start": 69.72,
+    "end": 70.58
+  },
+  {
+    "word": " Com",
+    "start": 70.58,
+    "end": 71.1
+  },
+  {
+    "word": " ele",
+    "start": 71.1,
+    "end": 71.38
+  },
+  {
+    "word": " eu",
+    "start": 71.38,
+    "end": 71.7
+  },
+  {
+    "word": " tenho",
+    "start": 71.7,
+    "end": 72.18
+  },
+  {
+    "word": " de",
+    "start": 72.18,
+    "end": 72.44
+  },
+  {
+    "word": " fato",
+    "start": 72.44,
+    "end": 72.78
+  },
+  {
+    "word": " uma",
+    "start": 72.78,
+    "end": 73.16
+  },
+  {
+    "word": " velha",
+    "start": 73.16,
+    "end": 73.7
+  },
+  {
+    "word": " intimidade",
+    "start": 73.7,
+    "end": 75.12
+  },
+  {
+    "word": " Se",
+    "start": 75.12,
+    "end": 75.8
+  },
+  {
+    "word": " fico",
+    "start": 75.8,
+    "end": 76.24
+  },
+  {
+    "word": " sozinho",
+    "start": 76.24,
+    "end": 77.22
+  },
+  {
+    "word": " ele",
+    "start": 77.22,
+    "end": 77.64
+  },
+  {
+    "word": " vem",
+    "start": 77.64,
+    "end": 77.92
+  },
+  {
+    "word": " me",
+    "start": 77.92,
+    "end": 78.26
+  },
+  {
+    "word": " socorrer",
+    "start": 78.26,
+    "end": 79.36
+  },
+  {
+    "word": " Há",
+    "start": 79.94,
+    "end": 80.5
+  },
+  {
+    "word": " muito",
+    "start": 80.5,
+    "end": 80.98
+  },
+  {
+    "word": " tempo",
+    "start": 80.98,
+    "end": 81.38
+  },
+  {
+    "word": " eu",
+    "start": 81.38,
+    "end": 81.7
+  },
+  {
+    "word": " escuto",
+    "start": 81.7,
+    "end": 82.06
+  },
+  {
+    "word": " esse",
+    "start": 82.06,
+    "end": 82.32
+  },
+  {
+    "word": " papo",
+    "start": 82.32,
+    "end": 82.74
+  },
+  {
+    "word": " furado",
+    "start": 82.74,
+    "end": 83.24
+  },
+  {
+    "word": " dizendo",
+    "start": 83.24,
+    "end": 83.76
+  },
+  {
+    "word": " que",
+    "start": 83.76,
+    "end": 84.08
+  },
+  {
+    "word": " o",
+    "start": 84.08,
+    "end": 84.32
+  },
+  {
+    "word": " samba",
+    "start": 84.32,
+    "end": 84.58
+  },
+  {
+    "word": " acabou",
+    "start": 84.58,
+    "end": 85.18
+  },
+  {
+    "word": " Só",
+    "start": 85.18,
+    "end": 86.1
+  },
+  {
+    "word": " se",
+    "start": 86.1,
+    "end": 86.46
+  },
+  {
+    "word": " foi",
+    "start": 86.46,
+    "end": 86.76
+  },
+  {
+    "word": " quando",
+    "start": 86.76,
+    "end": 87.1
+  },
+  {
+    "word": " o",
+    "start": 87.1,
+    "end": 87.16
+  },
+  {
+    "word": " dia",
+    "start": 87.16,
+    "end": 87.84
+  },
+  {
+    "word": " clareou",
+    "start": 87.84,
+    "end": 89.48
+  },
+  {
+    "word": " Há",
+    "start": 89.48,
+    "end": 90.36
+  },
+  {
+    "word": " muito",
+    "start": 90.36,
+    "end": 90.66
+  },
+  {
+    "word": " tempo",
+    "start": 90.66,
+    "end": 91.1
+  },
+  {
+    "word": " eu",
+    "start": 91.1,
+    "end": 91.48
+  },
+  {
+    "word": " escuto",
+    "start": 91.48,
+    "end": 91.8
+  },
+  {
+    "word": " esse",
+    "start": 91.8,
+    "end": 92.1
+  },
+  {
+    "word": " papo",
+    "start": 92.1,
+    "end": 92.52
+  },
+  {
+    "word": " furado",
+    "start": 92.52,
+    "end": 93.0
+  },
+  {
+    "word": " dizendo",
+    "start": 93.0,
+    "end": 93.54
+  },
+  {
+    "word": " que",
+    "start": 93.54,
+    "end": 93.96
+  },
+  {
+    "word": " o",
+    "start": 93.96,
+    "end": 94.08
+  },
+  {
+    "word": " samba",
+    "start": 94.08,
+    "end": 94.34
+  },
+  {
+    "word": " acabou",
+    "start": 94.34,
+    "end": 94.94
+  }
+]

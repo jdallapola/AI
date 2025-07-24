@@ -1,0 +1,4812 @@
+[
+  {
+    "word": " na",
+    "start": 1.4999999999999991,
+    "end": 2.3
+  },
+  {
+    "word": " entrevista",
+    "start": 2.3,
+    "end": 2.94
+  },
+  {
+    "word": " do",
+    "start": 2.94,
+    "end": 3.2
+  },
+  {
+    "word": " dia",
+    "start": 3.2,
+    "end": 3.52
+  },
+  {
+    "word": " com",
+    "start": 3.52,
+    "end": 3.9
+  },
+  {
+    "word": " o",
+    "start": 3.9,
+    "end": 4.1
+  },
+  {
+    "word": " Maria",
+    "start": 4.1,
+    "end": 4.44
+  },
+  {
+    "word": " Lídia",
+    "start": 4.44,
+    "end": 4.84
+  },
+  {
+    "word": " falando",
+    "start": 4.84,
+    "end": 5.22
+  },
+  {
+    "word": " ali",
+    "start": 5.22,
+    "end": 5.44
+  },
+  {
+    "word": " o",
+    "start": 5.44,
+    "end": 5.7
+  },
+  {
+    "word": " impacto",
+    "start": 5.7,
+    "end": 6.04
+  },
+  {
+    "word": " da",
+    "start": 6.04,
+    "end": 6.34
+  },
+  {
+    "word": " decisão",
+    "start": 6.34,
+    "end": 6.76
+  },
+  {
+    "word": " do",
+    "start": 6.76,
+    "end": 7.02
+  },
+  {
+    "word": " TSE",
+    "start": 7.02,
+    "end": 7.42
+  },
+  {
+    "word": " sobre",
+    "start": 7.42,
+    "end": 7.8
+  },
+  {
+    "word": " a",
+    "start": 7.8,
+    "end": 8.3
+  },
+  {
+    "word": " governabilidade",
+    "start": 8.3,
+    "end": 9.34
+  },
+  {
+    "word": " de",
+    "start": 9.34,
+    "end": 9.68
+  },
+  {
+    "word": " Temer",
+    "start": 9.68,
+    "end": 10.78
+  },
+  {
+    "word": " e",
+    "start": 10.78,
+    "end": 11.12
+  },
+  {
+    "word": " quem",
+    "start": 11.12,
+    "end": 11.3
+  },
+  {
+    "word": " analisa",
+    "start": 11.3,
+    "end": 11.84
+  },
+  {
+    "word": " é",
+    "start": 11.84,
+    "end": 12.04
+  },
+  {
+    "word": " o",
+    "start": 12.04,
+    "end": 12.24
+  },
+  {
+    "word": " cientista",
+    "start": 12.24,
+    "end": 12.64
+  },
+  {
+    "word": " político",
+    "start": 12.64,
+    "end": 13.06
+  },
+  {
+    "word": " Rubens",
+    "start": 13.06,
+    "end": 13.48
+  },
+  {
+    "word": " Figueiredo",
+    "start": 13.48,
+    "end": 14.16
+  },
+  {
+    "word": " consultor",
+    "start": 14.16,
+    "end": 14.84
+  },
+  {
+    "word": " da",
+    "start": 14.84,
+    "end": 15.02
+  },
+  {
+    "word": " Fundação",
+    "start": 15.02,
+    "end": 15.46
+  },
+  {
+    "word": " Espaço",
+    "start": 15.46,
+    "end": 16.1
+  },
+  {
+    "word": " Democrático",
+    "start": 16.1,
+    "end": 17.1
+  },
+  {
+    "word": " boa",
+    "start": 17.1,
+    "end": 17.44
+  },
+  {
+    "word": " noite",
+    "start": 17.44,
+    "end": 17.8
+  },
+  {
+    "word": " muito",
+    "start": 17.8,
+    "end": 18.08
+  },
+  {
+    "word": " obrigada",
+    "start": 18.08,
+    "end": 19.0
+  },
+  {
+    "word": " a",
+    "start": 19.0,
+    "end": 20.56
+  },
+  {
+    "word": " absolvição",
+    "start": 20.56,
+    "end": 21.88
+  },
+  {
+    "word": " de",
+    "start": 21.88,
+    "end": 22.28
+  },
+  {
+    "word": " Temer",
+    "start": 22.28,
+    "end": 22.7
+  },
+  {
+    "word": " pelo",
+    "start": 22.7,
+    "end": 23.18
+  },
+  {
+    "word": " TSE",
+    "start": 23.18,
+    "end": 23.98
+  },
+  {
+    "word": " garante",
+    "start": 23.98,
+    "end": 25.08
+  },
+  {
+    "word": " a",
+    "start": 25.08,
+    "end": 25.72
+  },
+  {
+    "word": " governabilidade",
+    "start": 25.72,
+    "end": 27.26
+  },
+  {
+    "word": " principalmente",
+    "start": 27.26,
+    "end": 28.62
+  },
+  {
+    "word": " para",
+    "start": 28.62,
+    "end": 29.18
+  },
+  {
+    "word": " a",
+    "start": 29.18,
+    "end": 29.28
+  },
+  {
+    "word": " aprovação",
+    "start": 29.28,
+    "end": 29.92
+  },
+  {
+    "word": " das",
+    "start": 29.92,
+    "end": 30.22
+  },
+  {
+    "word": " reformas",
+    "start": 30.22,
+    "end": 31.02
+  },
+  {
+    "word": " que",
+    "start": 31.02,
+    "end": 31.26
+  },
+  {
+    "word": " ele",
+    "start": 31.26,
+    "end": 31.52
+  },
+  {
+    "word": " pretende?",
+    "start": 31.52,
+    "end": 32.5
+  },
+  {
+    "word": " aumenta",
+    "start": 33.04,
+    "end": 33.84
+  },
+  {
+    "word": " a",
+    "start": 33.84,
+    "end": 34.02
+  },
+  {
+    "word": " governabilidade",
+    "start": 34.02,
+    "end": 34.88
+  },
+  {
+    "word": " caso",
+    "start": 34.88,
+    "end": 35.26
+  },
+  {
+    "word": " ele",
+    "start": 35.26,
+    "end": 35.56
+  },
+  {
+    "word": " fosse",
+    "start": 35.56,
+    "end": 36.48
+  },
+  {
+    "word": " condenado,",
+    "start": 36.48,
+    "end": 37.34
+  },
+  {
+    "word": " caso",
+    "start": 38.4,
+    "end": 38.44
+  },
+  {
+    "word": " o",
+    "start": 38.44,
+    "end": 38.7
+  },
+  {
+    "word": " TSE",
+    "start": 38.7,
+    "end": 39.18
+  },
+  {
+    "word": " optasse",
+    "start": 39.18,
+    "end": 40.54
+  },
+  {
+    "word": " pela",
+    "start": 40.54,
+    "end": 40.92
+  },
+  {
+    "word": " cassação",
+    "start": 40.92,
+    "end": 41.44
+  },
+  {
+    "word": " da",
+    "start": 41.44,
+    "end": 41.7
+  },
+  {
+    "word": " chapa",
+    "start": 41.7,
+    "end": 42.0
+  },
+  {
+    "word": " ele",
+    "start": 42.0,
+    "end": 42.26
+  },
+  {
+    "word": " teria",
+    "start": 42.26,
+    "end": 42.4
+  },
+  {
+    "word": " que",
+    "start": 42.4,
+    "end": 42.66
+  },
+  {
+    "word": " recorrer",
+    "start": 42.66,
+    "end": 43.12
+  },
+  {
+    "word": " seria",
+    "start": 43.12,
+    "end": 43.84
+  },
+  {
+    "word": " um",
+    "start": 43.84,
+    "end": 44.18
+  },
+  {
+    "word": " período",
+    "start": 44.18,
+    "end": 44.52
+  },
+  {
+    "word": " de",
+    "start": 44.52,
+    "end": 45.1
+  },
+  {
+    "word": " mais",
+    "start": 45.1,
+    "end": 45.46
+  },
+  {
+    "word": " incerteza",
+    "start": 45.46,
+    "end": 46.32000000000001
+  },
+  {
+    "word": " ainda",
+    "start": 46.32,
+    "end": 47.44
+  },
+  {
+    "word": " eu",
+    "start": 47.44,
+    "end": 48.88
+  },
+  {
+    "word": " acredito",
+    "start": 48.88,
+    "end": 49.44
+  },
+  {
+    "word": " Maria",
+    "start": 49.44,
+    "end": 49.76
+  },
+  {
+    "word": " Lídia",
+    "start": 49.76,
+    "end": 50.1
+  },
+  {
+    "word": " que",
+    "start": 50.1,
+    "end": 50.62
+  },
+  {
+    "word": " o",
+    "start": 50.62,
+    "end": 51.54
+  },
+  {
+    "word": " salvo",
+    "start": 51.54,
+    "end": 52.0
+  },
+  {
+    "word": " se",
+    "start": 52.0,
+    "end": 52.2
+  },
+  {
+    "word": " houver",
+    "start": 52.2,
+    "end": 52.74
+  },
+  {
+    "word": " alguma",
+    "start": 52.74,
+    "end": 53.44
+  },
+  {
+    "word": " novidade",
+    "start": 53.44,
+    "end": 55.14
+  },
+  {
+    "word": " muito",
+    "start": 55.14,
+    "end": 56.42
+  },
+  {
+    "word": " grande",
+    "start": 58.800000000000004,
+    "end": 59.64
+  },
+  {
+    "word": " eu",
+    "start": 59.64,
+    "end": 60.48
+  },
+  {
+    "word": " acredito",
+    "start": 60.48,
+    "end": 60.9
+  },
+  {
+    "word": " que",
+    "start": 60.9,
+    "end": 61.08
+  },
+  {
+    "word": " ele",
+    "start": 61.08,
+    "end": 61.26
+  },
+  {
+    "word": " não",
+    "start": 61.26,
+    "end": 61.46
+  },
+  {
+    "word": " vai",
+    "start": 61.46,
+    "end": 62.0
+  },
+  {
+    "word": " cair",
+    "start": 62.0,
+    "end": 62.46
+  },
+  {
+    "word": " porque",
+    "start": 62.46,
+    "end": 63.04
+  },
+  {
+    "word": " mesmo",
+    "start": 63.04,
+    "end": 63.68
+  },
+  {
+    "word": " que",
+    "start": 63.68,
+    "end": 63.9
+  },
+  {
+    "word": " a",
+    "start": 63.9,
+    "end": 64.06
+  },
+  {
+    "word": " procuradoria",
+    "start": 64.06,
+    "end": 65.44
+  },
+  {
+    "word": " peça",
+    "start": 65.44,
+    "end": 66.44
+  },
+  {
+    "word": " o",
+    "start": 66.44,
+    "end": 67.18
+  },
+  {
+    "word": " inquérito",
+    "start": 67.18,
+    "end": 67.82
+  },
+  {
+    "word": " a",
+    "start": 67.82,
+    "end": 68.54
+  },
+  {
+    "word": " câmara",
+    "start": 68.54,
+    "end": 68.92
+  },
+  {
+    "word": " não",
+    "start": 68.92,
+    "end": 69.2
+  },
+  {
+    "word": " vai.",
+    "start": 69.2,
+    "end": 69.58
+  },
+  {
+    "word": " O",
+    "start": 69.9,
+    "end": 70.02
+  },
+  {
+    "word": " inquérito",
+    "start": 70.02,
+    "end": 70.38
+  },
+  {
+    "word": " já",
+    "start": 70.38,
+    "end": 70.6
+  },
+  {
+    "word": " pediu",
+    "start": 70.6,
+    "end": 70.98
+  },
+  {
+    "word": " né?",
+    "start": 70.98,
+    "end": 71.4
+  },
+  {
+    "word": " Ele",
+    "start": 71.5,
+    "end": 71.82
+  },
+  {
+    "word": " já",
+    "start": 71.82,
+    "end": 71.96
+  },
+  {
+    "word": " está",
+    "start": 71.96,
+    "end": 72.08
+  },
+  {
+    "word": " sob",
+    "start": 72.08,
+    "end": 72.28
+  },
+  {
+    "word": " ele",
+    "start": 72.28,
+    "end": 72.9
+  },
+  {
+    "word": " tem",
+    "start": 72.9,
+    "end": 74.04
+  },
+  {
+    "word": " que",
+    "start": 74.04,
+    "end": 74.16
+  },
+  {
+    "word": " ser",
+    "start": 74.16,
+    "end": 74.36
+  },
+  {
+    "word": " aprovado",
+    "start": 74.36,
+    "end": 74.86
+  },
+  {
+    "word": " na",
+    "start": 74.86,
+    "end": 75.08
+  },
+  {
+    "word": " câmara",
+    "start": 75.08,
+    "end": 75.48
+  },
+  {
+    "word": " para",
+    "start": 75.48,
+    "end": 75.88
+  },
+  {
+    "word": " correr.",
+    "start": 75.88,
+    "end": 76.34
+  },
+  {
+    "word": " Mas",
+    "start": 76.82,
+    "end": 76.82
+  },
+  {
+    "word": " aí",
+    "start": 76.82,
+    "end": 77.16
+  },
+  {
+    "word": " é",
+    "start": 77.16,
+    "end": 77.52
+  },
+  {
+    "word": " uma",
+    "start": 77.52,
+    "end": 77.72
+  },
+  {
+    "word": " coisa",
+    "start": 77.72,
+    "end": 78.06
+  },
+  {
+    "word": " de",
+    "start": 78.06,
+    "end": 78.94
+  },
+  {
+    "word": " ação",
+    "start": 78.94,
+    "end": 79.56
+  },
+  {
+    "word": " para",
+    "start": 79.56,
+    "end": 79.92
+  },
+  {
+    "word": " que",
+    "start": 79.92,
+    "end": 80.08
+  },
+  {
+    "word": " o",
+    "start": 80.08,
+    "end": 80.3
+  },
+  {
+    "word": " Supremo",
+    "start": 80.3,
+    "end": 80.94
+  },
+  {
+    "word": " acolha",
+    "start": 80.94,
+    "end": 81.86
+  },
+  {
+    "word": " uma",
+    "start": 81.86,
+    "end": 83.06
+  },
+  {
+    "word": " ação",
+    "start": 83.06,
+    "end": 84.08
+  },
+  {
+    "word": " contra",
+    "start": 84.08,
+    "end": 84.48
+  },
+  {
+    "word": " ele",
+    "start": 84.48,
+    "end": 84.76
+  },
+  {
+    "word": " aí",
+    "start": 84.76,
+    "end": 84.9
+  },
+  {
+    "word": " o",
+    "start": 84.9,
+    "end": 85.1
+  },
+  {
+    "word": " Supremo",
+    "start": 85.1,
+    "end": 85.4
+  },
+  {
+    "word": " pede",
+    "start": 85.4,
+    "end": 85.8
+  },
+  {
+    "word": " para",
+    "start": 85.8,
+    "end": 86.0
+  },
+  {
+    "word": " a",
+    "start": 86.0,
+    "end": 86.24
+  },
+  {
+    "word": " câmara",
+    "start": 86.24,
+    "end": 86.26
+  },
+  {
+    "word": " para",
+    "start": 86.26,
+    "end": 86.48
+  },
+  {
+    "word": " a",
+    "start": 86.48,
+    "end": 86.5
+  },
+  {
+    "word": " câmara",
+    "start": 86.5,
+    "end": 87.06
+  },
+  {
+    "word": " que",
+    "start": 87.06,
+    "end": 87.58
+  },
+  {
+    "word": " aprove",
+    "start": 87.58,
+    "end": 87.88
+  },
+  {
+    "word": " para",
+    "start": 87.88,
+    "end": 88.3
+  },
+  {
+    "word": " que",
+    "start": 88.3,
+    "end": 88.5
+  },
+  {
+    "word": " esse",
+    "start": 88.5,
+    "end": 88.72
+  },
+  {
+    "word": " processo",
+    "start": 88.72,
+    "end": 89.04
+  },
+  {
+    "word": " continue.",
+    "start": 89.04,
+    "end": 89.58
+  },
+  {
+    "word": " Isso",
+    "start": 90.02,
+    "end": 90.26
+  },
+  {
+    "word": " é",
+    "start": 90.26,
+    "end": 90.36
+  },
+  {
+    "word": " muito",
+    "start": 90.36,
+    "end": 90.5
+  },
+  {
+    "word": " difícil",
+    "start": 90.5,
+    "end": 90.78
+  },
+  {
+    "word": " de",
+    "start": 90.78,
+    "end": 90.96
+  },
+  {
+    "word": " acontecer",
+    "start": 90.96,
+    "end": 91.3
+  },
+  {
+    "word": " o",
+    "start": 91.3,
+    "end": 91.56
+  },
+  {
+    "word": " presidente",
+    "start": 91.56,
+    "end": 91.88
+  },
+  {
+    "word": " Temer",
+    "start": 91.88,
+    "end": 92.52
+  },
+  {
+    "word": " ele",
+    "start": 92.52,
+    "end": 93.22
+  },
+  {
+    "word": " é",
+    "start": 93.22,
+    "end": 93.44
+  },
+  {
+    "word": " o",
+    "start": 93.44,
+    "end": 93.72
+  },
+  {
+    "word": " presidente",
+    "start": 93.72,
+    "end": 94.06
+  },
+  {
+    "word": " que",
+    "start": 94.06,
+    "end": 94.4
+  },
+  {
+    "word": " montou",
+    "start": 94.4,
+    "end": 94.96
+  },
+  {
+    "word": " com",
+    "start": 94.96,
+    "end": 95.26
+  },
+  {
+    "word": " toda",
+    "start": 95.26,
+    "end": 95.46
+  },
+  {
+    "word": " dificuldade",
+    "start": 95.46,
+    "end": 96.38
+  },
+  {
+    "word": " que",
+    "start": 96.38,
+    "end": 96.66
+  },
+  {
+    "word": " ele",
+    "start": 96.66,
+    "end": 96.98
+  },
+  {
+    "word": " assumiu",
+    "start": 96.98,
+    "end": 97.96
+  },
+  {
+    "word": " a",
+    "start": 97.96,
+    "end": 98.68
+  },
+  {
+    "word": " maior",
+    "start": 98.68,
+    "end": 98.96
+  },
+  {
+    "word": " base",
+    "start": 98.96,
+    "end": 99.34
+  },
+  {
+    "word": " de",
+    "start": 99.34,
+    "end": 99.64
+  },
+  {
+    "word": " apoio",
+    "start": 99.64,
+    "end": 99.92
+  },
+  {
+    "word": " da",
+    "start": 99.92,
+    "end": 100.2
+  },
+  {
+    "word": " história",
+    "start": 100.2,
+    "end": 100.62
+  },
+  {
+    "word": " republicana",
+    "start": 100.62,
+    "end": 101.3
+  },
+  {
+    "word": " mais",
+    "start": 101.3,
+    "end": 101.3
+  },
+  {
+    "word": " recente",
+    "start": 101.3,
+    "end": 101.7
+  },
+  {
+    "word": " do",
+    "start": 101.7,
+    "end": 101.84
+  },
+  {
+    "word": " Brasil,",
+    "start": 101.84,
+    "end": 102.1
+  },
+  {
+    "word": " mais",
+    "start": 102.16,
+    "end": 102.44
+  },
+  {
+    "word": " do",
+    "start": 102.44,
+    "end": 102.48
+  },
+  {
+    "word": " que",
+    "start": 102.48,
+    "end": 102.62
+  },
+  {
+    "word": " o",
+    "start": 102.62,
+    "end": 102.78
+  },
+  {
+    "word": " Lula",
+    "start": 102.78,
+    "end": 103.06
+  },
+  {
+    "word": " e",
+    "start": 103.06,
+    "end": 103.38
+  },
+  {
+    "word": " o",
+    "start": 103.38,
+    "end": 103.56
+  },
+  {
+    "word": " Fernando",
+    "start": 103.56,
+    "end": 103.8
+  },
+  {
+    "word": " Henrique.",
+    "start": 103.8,
+    "end": 104.02
+  },
+  {
+    "word": " Agora",
+    "start": 104.1,
+    "end": 104.4
+  },
+  {
+    "word": " essa",
+    "start": 104.4,
+    "end": 104.78
+  },
+  {
+    "word": " história",
+    "start": 104.78,
+    "end": 105.16
+  },
+  {
+    "word": " da",
+    "start": 105.16,
+    "end": 105.84
+  },
+  {
+    "word": " credibilidade",
+    "start": 105.84,
+    "end": 106.72
+  },
+  {
+    "word": " do",
+    "start": 106.72,
+    "end": 107.04
+  },
+  {
+    "word": " prestígio",
+    "start": 107.04,
+    "end": 107.76
+  },
+  {
+    "word": " né?",
+    "start": 107.76,
+    "end": 108.0
+  },
+  {
+    "word": " Se",
+    "start": 108.0,
+    "end": 108.14
+  },
+  {
+    "word": " fala",
+    "start": 108.14,
+    "end": 108.42
+  },
+  {
+    "word": " tanto",
+    "start": 108.42,
+    "end": 109.0
+  },
+  {
+    "word": " que",
+    "start": 109.0,
+    "end": 109.22
+  },
+  {
+    "word": " um",
+    "start": 109.22,
+    "end": 109.52
+  },
+  {
+    "word": " governo",
+    "start": 109.52,
+    "end": 110.32
+  },
+  {
+    "word": " precisa",
+    "start": 110.32,
+    "end": 111.12
+  },
+  {
+    "word": " ou",
+    "start": 111.12,
+    "end": 111.46
+  },
+  {
+    "word": " o",
+    "start": 111.46,
+    "end": 111.7
+  },
+  {
+    "word": " político",
+    "start": 111.7,
+    "end": 112.0
+  },
+  {
+    "word": " homem",
+    "start": 112.0,
+    "end": 112.5
+  },
+  {
+    "word": " público",
+    "start": 112.5,
+    "end": 113.2
+  },
+  {
+    "word": " tem",
+    "start": 113.2,
+    "end": 113.96
+  },
+  {
+    "word": " de",
+    "start": 113.96,
+    "end": 114.24
+  },
+  {
+    "word": " ter",
+    "start": 114.24,
+    "end": 114.68
+  },
+  {
+    "word": " credibilidade",
+    "start": 114.68,
+    "end": 115.82
+  },
+  {
+    "word": " tanto",
+    "start": 115.82,
+    "end": 116.36
+  },
+  {
+    "word": " que",
+    "start": 116.36,
+    "end": 116.54
+  },
+  {
+    "word": " sempre",
+    "start": 116.54,
+    "end": 116.74
+  },
+  {
+    "word": " se",
+    "start": 116.74,
+    "end": 117.08
+  },
+  {
+    "word": " cobrou",
+    "start": 117.08,
+    "end": 117.56
+  },
+  {
+    "word": " muito",
+    "start": 117.56,
+    "end": 117.74
+  },
+  {
+    "word": " a",
+    "start": 117.74,
+    "end": 117.9
+  },
+  {
+    "word": " questão",
+    "start": 117.9,
+    "end": 118.1
+  },
+  {
+    "word": " da",
+    "start": 118.1,
+    "end": 118.46
+  },
+  {
+    "word": " ética",
+    "start": 118.46,
+    "end": 119.22
+  },
+  {
+    "word": " em",
+    "start": 119.22,
+    "end": 119.62
+  },
+  {
+    "word": " função",
+    "start": 119.62,
+    "end": 120.02
+  },
+  {
+    "word": " disso",
+    "start": 120.02,
+    "end": 120.46
+  },
+  {
+    "word": " da",
+    "start": 120.46,
+    "end": 120.86
+  },
+  {
+    "word": " credibilidade.",
+    "start": 120.86,
+    "end": 122.5
+  },
+  {
+    "word": " Temer",
+    "start": 122.88,
+    "end": 123.06
+  },
+  {
+    "word": " tem",
+    "start": 123.06,
+    "end": 123.26
+  },
+  {
+    "word": " a",
+    "start": 123.26,
+    "end": 123.44
+  },
+  {
+    "word": " imagem",
+    "start": 123.44,
+    "end": 123.82
+  },
+  {
+    "word": " muito",
+    "start": 123.82,
+    "end": 124.18
+  },
+  {
+    "word": " abalada",
+    "start": 124.18,
+    "end": 124.6
+  },
+  {
+    "word": " as",
+    "start": 124.6,
+    "end": 124.8
+  },
+  {
+    "word": " denúncias",
+    "start": 124.8,
+    "end": 125.78
+  },
+  {
+    "word": " são",
+    "start": 125.78,
+    "end": 126.06
+  },
+  {
+    "word": " muito",
+    "start": 126.06,
+    "end": 126.44
+  },
+  {
+    "word": " pesadas",
+    "start": 126.44,
+    "end": 127.26
+  },
+  {
+    "word": " as",
+    "start": 127.26,
+    "end": 128.04
+  },
+  {
+    "word": " gravações,",
+    "start": 128.04,
+    "end": 129.12
+  },
+  {
+    "word": " as",
+    "start": 130.2,
+    "end": 130.28
+  },
+  {
+    "word": " delações,",
+    "start": 130.28,
+    "end": 131.16
+  },
+  {
+    "word": " essa",
+    "start": 131.36,
+    "end": 131.54
+  },
+  {
+    "word": " coisa",
+    "start": 131.54,
+    "end": 131.9
+  },
+  {
+    "word": " toda",
+    "start": 131.9,
+    "end": 132.38
+  },
+  {
+    "word": " e",
+    "start": 132.38,
+    "end": 133.34
+  },
+  {
+    "word": " que",
+    "start": 133.34,
+    "end": 134.02
+  },
+  {
+    "word": " leva",
+    "start": 134.02,
+    "end": 134.46
+  },
+  {
+    "word": " a",
+    "start": 134.46,
+    "end": 135.94
+  },
+  {
+    "word": " enxergar",
+    "start": 135.94,
+    "end": 137.4
+  },
+  {
+    "word": " no",
+    "start": 137.4,
+    "end": 138.5
+  },
+  {
+    "word": " mínimo",
+    "start": 138.5,
+    "end": 138.96
+  },
+  {
+    "word": " uma",
+    "start": 138.96,
+    "end": 139.26
+  },
+  {
+    "word": " proximidade",
+    "start": 139.26,
+    "end": 140.28
+  },
+  {
+    "word": " dele",
+    "start": 140.28,
+    "end": 140.52
+  },
+  {
+    "word": " muito",
+    "start": 140.52,
+    "end": 140.88
+  },
+  {
+    "word": " grande",
+    "start": 140.88,
+    "end": 141.14
+  },
+  {
+    "word": " de",
+    "start": 141.14,
+    "end": 141.56
+  },
+  {
+    "word": " gente",
+    "start": 141.56,
+    "end": 142.0
+  },
+  {
+    "word": " que",
+    "start": 142.0,
+    "end": 142.12
+  },
+  {
+    "word": " está",
+    "start": 142.12,
+    "end": 142.34
+  },
+  {
+    "word": " atolado",
+    "start": 142.34,
+    "end": 142.78
+  },
+  {
+    "word": " nessa",
+    "start": 142.78,
+    "end": 143.14
+  },
+  {
+    "word": " lama.",
+    "start": 143.14,
+    "end": 143.62
+  },
+  {
+    "word": " Isso",
+    "start": 144.82,
+    "end": 145.4
+  },
+  {
+    "word": " não",
+    "start": 145.4,
+    "end": 145.96
+  },
+  {
+    "word": " compromete",
+    "start": 145.96,
+    "end": 146.5
+  },
+  {
+    "word": " a",
+    "start": 146.5,
+    "end": 146.68
+  },
+  {
+    "word": " tal",
+    "start": 146.68,
+    "end": 146.84
+  },
+  {
+    "word": " da",
+    "start": 146.84,
+    "end": 147.18
+  },
+  {
+    "word": " governabilidade",
+    "start": 147.18,
+    "end": 147.86
+  },
+  {
+    "word": " que",
+    "start": 147.86,
+    "end": 147.98
+  },
+  {
+    "word": " o",
+    "start": 147.98,
+    "end": 148.0
+  },
+  {
+    "word": " senhor",
+    "start": 148.0,
+    "end": 148.12
+  },
+  {
+    "word": " acaba",
+    "start": 148.12,
+    "end": 148.42
+  },
+  {
+    "word": " de",
+    "start": 148.42,
+    "end": 148.7
+  },
+  {
+    "word": " dizer",
+    "start": 148.7,
+    "end": 148.92
+  },
+  {
+    "word": " que",
+    "start": 148.92,
+    "end": 149.78
+  },
+  {
+    "word": " melhorou?",
+    "start": 149.78,
+    "end": 150.34
+  },
+  {
+    "word": " Olha",
+    "start": 151.22,
+    "end": 151.4
+  },
+  {
+    "word": " Maria",
+    "start": 151.4,
+    "end": 151.58
+  },
+  {
+    "word": " é",
+    "start": 151.58,
+    "end": 151.86
+  },
+  {
+    "word": " interessante",
+    "start": 151.86,
+    "end": 152.64
+  },
+  {
+    "word": " o",
+    "start": 152.64,
+    "end": 153.06
+  },
+  {
+    "word": " governo",
+    "start": 153.06,
+    "end": 153.48
+  },
+  {
+    "word": " Temer",
+    "start": 153.48,
+    "end": 153.92
+  },
+  {
+    "word": " é",
+    "start": 153.92,
+    "end": 154.08
+  },
+  {
+    "word": " um",
+    "start": 154.08,
+    "end": 156.56
+  },
+  {
+    "word": " governo",
+    "start": 156.56,
+    "end": 157.0
+  },
+  {
+    "word": " forte",
+    "start": 157.0,
+    "end": 157.54
+  },
+  {
+    "word": " porque",
+    "start": 157.54,
+    "end": 158.4
+  },
+  {
+    "word": " que",
+    "start": 158.4,
+    "end": 158.54
+  },
+  {
+    "word": " é",
+    "start": 158.54,
+    "end": 158.62
+  },
+  {
+    "word": " um",
+    "start": 158.62,
+    "end": 158.76
+  },
+  {
+    "word": " governo",
+    "start": 158.76,
+    "end": 159.02
+  },
+  {
+    "word": " forte",
+    "start": 159.02,
+    "end": 159.34
+  },
+  {
+    "word": " porque",
+    "start": 159.34,
+    "end": 159.56
+  },
+  {
+    "word": " ele",
+    "start": 159.56,
+    "end": 159.76
+  },
+  {
+    "word": " tem",
+    "start": 159.76,
+    "end": 159.94
+  },
+  {
+    "word": " apoio",
+    "start": 159.94,
+    "end": 160.46
+  },
+  {
+    "word": " parlamentar",
+    "start": 160.46,
+    "end": 161.16
+  },
+  {
+    "word": " e",
+    "start": 161.16,
+    "end": 161.32
+  },
+  {
+    "word": " ele",
+    "start": 161.32,
+    "end": 161.54
+  },
+  {
+    "word": " tem",
+    "start": 161.54,
+    "end": 161.74
+  },
+  {
+    "word": " um",
+    "start": 161.74,
+    "end": 161.94
+  },
+  {
+    "word": " apoio",
+    "start": 161.94,
+    "end": 162.22
+  },
+  {
+    "word": " parlamentar",
+    "start": 162.22,
+    "end": 162.76
+  },
+  {
+    "word": " muito",
+    "start": 162.76,
+    "end": 163.06
+  },
+  {
+    "word": " grande",
+    "start": 163.06,
+    "end": 163.38
+  },
+  {
+    "word": " muito",
+    "start": 163.38,
+    "end": 163.74
+  },
+  {
+    "word": " sólido.",
+    "start": 163.74,
+    "end": 164.14
+  },
+  {
+    "word": " Mas",
+    "start": 164.28,
+    "end": 164.28
+  },
+  {
+    "word": " já",
+    "start": 164.28,
+    "end": 164.54
+  },
+  {
+    "word": " reduziu",
+    "start": 164.54,
+    "end": 165.04
+  },
+  {
+    "word": " bastante.",
+    "start": 165.04,
+    "end": 165.46
+  },
+  {
+    "word": " Reduziu",
+    "start": 165.74,
+    "end": 166.2
+  },
+  {
+    "word": " mas",
+    "start": 166.2,
+    "end": 166.5
+  },
+  {
+    "word": " ele",
+    "start": 166.5,
+    "end": 166.68
+  },
+  {
+    "word": " ainda",
+    "start": 166.68,
+    "end": 167.12
+  },
+  {
+    "word": " é",
+    "start": 167.12,
+    "end": 167.94
+  },
+  {
+    "word": " o",
+    "start": 167.94,
+    "end": 168.18
+  },
+  {
+    "word": " governo",
+    "start": 168.18,
+    "end": 168.42
+  },
+  {
+    "word": " ainda",
+    "start": 168.42,
+    "end": 168.76
+  },
+  {
+    "word": " tem",
+    "start": 168.76,
+    "end": 168.9
+  },
+  {
+    "word": " condições",
+    "start": 168.9,
+    "end": 169.38
+  },
+  {
+    "word": " de",
+    "start": 169.38,
+    "end": 170.18
+  },
+  {
+    "word": " aprovar",
+    "start": 170.18,
+    "end": 170.96
+  },
+  {
+    "word": " as",
+    "start": 170.96,
+    "end": 171.26
+  },
+  {
+    "word": " reformas.",
+    "start": 171.26,
+    "end": 171.9
+  },
+  {
+    "word": " Não",
+    "start": 172.06,
+    "end": 172.38
+  },
+  {
+    "word": " serão",
+    "start": 172.38,
+    "end": 172.76
+  },
+  {
+    "word": " as",
+    "start": 172.76,
+    "end": 173.08
+  },
+  {
+    "word": " reformas",
+    "start": 173.08,
+    "end": 173.6
+  },
+  {
+    "word": " que",
+    "start": 173.6,
+    "end": 173.82
+  },
+  {
+    "word": " eram",
+    "start": 173.82,
+    "end": 174.0
+  },
+  {
+    "word": " pensadas",
+    "start": 174.0,
+    "end": 174.8
+  },
+  {
+    "word": " inicialmente.",
+    "start": 174.8,
+    "end": 175.58
+  },
+  {
+    "word": " No",
+    "start": 175.66,
+    "end": 175.82
+  },
+  {
+    "word": " projeto",
+    "start": 175.82,
+    "end": 176.18
+  },
+  {
+    "word": " inicial.",
+    "start": 176.18,
+    "end": 176.5
+  },
+  {
+    "word": " A",
+    "start": 177.76,
+    "end": 178.02
+  },
+  {
+    "word": " qualidade",
+    "start": 178.02,
+    "end": 178.66
+  },
+  {
+    "word": " do",
+    "start": 178.66,
+    "end": 179.0
+  },
+  {
+    "word": " governo",
+    "start": 179.0,
+    "end": 179.42
+  },
+  {
+    "word": " cai",
+    "start": 179.42,
+    "end": 179.74
+  },
+  {
+    "word": " um",
+    "start": 179.74,
+    "end": 180.02
+  },
+  {
+    "word": " pouco",
+    "start": 180.02,
+    "end": 180.26
+  },
+  {
+    "word": " porque",
+    "start": 180.26,
+    "end": 180.6
+  },
+  {
+    "word": " aquele",
+    "start": 180.6,
+    "end": 180.88
+  },
+  {
+    "word": " governo",
+    "start": 180.88,
+    "end": 181.4
+  },
+  {
+    "word": " que",
+    "start": 181.4,
+    "end": 181.74
+  },
+  {
+    "word": " vinha",
+    "start": 181.74,
+    "end": 182.28
+  },
+  {
+    "word": " governando",
+    "start": 182.28,
+    "end": 182.84
+  },
+  {
+    "word": " o",
+    "start": 182.84,
+    "end": 182.98
+  },
+  {
+    "word": " Brasil",
+    "start": 182.98,
+    "end": 183.4
+  },
+  {
+    "word": " ele",
+    "start": 183.4,
+    "end": 184.12
+  },
+  {
+    "word": " estava",
+    "start": 184.12,
+    "end": 184.34
+  },
+  {
+    "word": " focado",
+    "start": 184.34,
+    "end": 185.08
+  },
+  {
+    "word": " em",
+    "start": 185.08,
+    "end": 185.42
+  },
+  {
+    "word": " aprovar",
+    "start": 185.42,
+    "end": 185.84
+  },
+  {
+    "word": " reformas",
+    "start": 185.84,
+    "end": 186.42
+  },
+  {
+    "word": " que",
+    "start": 186.42,
+    "end": 186.62
+  },
+  {
+    "word": " melhorassem",
+    "start": 186.62,
+    "end": 187.68
+  },
+  {
+    "word": " nossa",
+    "start": 187.68,
+    "end": 187.94
+  },
+  {
+    "word": " economia",
+    "start": 187.94,
+    "end": 189.02
+  },
+  {
+    "word": " e",
+    "start": 189.02,
+    "end": 189.36
+  },
+  {
+    "word": " a",
+    "start": 189.36,
+    "end": 189.42
+  },
+  {
+    "word": " nosso",
+    "start": 189.42,
+    "end": 189.96
+  },
+  {
+    "word": " ambiente",
+    "start": 189.96,
+    "end": 190.58
+  },
+  {
+    "word": " de",
+    "start": 190.58,
+    "end": 191.0
+  },
+  {
+    "word": " negócio.",
+    "start": 191.0,
+    "end": 191.34
+  },
+  {
+    "word": " Agora",
+    "start": 192.04,
+    "end": 192.22
+  },
+  {
+    "word": " o",
+    "start": 192.22,
+    "end": 192.3
+  },
+  {
+    "word": " governo",
+    "start": 192.3,
+    "end": 192.72
+  },
+  {
+    "word": " está",
+    "start": 192.72,
+    "end": 193.18
+  },
+  {
+    "word": " focado",
+    "start": 193.18,
+    "end": 193.88
+  },
+  {
+    "word": " em",
+    "start": 193.88,
+    "end": 194.18
+  },
+  {
+    "word": " não",
+    "start": 194.18,
+    "end": 194.44
+  },
+  {
+    "word": " cair",
+    "start": 194.44,
+    "end": 194.92
+  },
+  {
+    "word": " é",
+    "start": 194.92,
+    "end": 195.32
+  },
+  {
+    "word": " óbvio",
+    "start": 195.32,
+    "end": 195.72
+  },
+  {
+    "word": " que",
+    "start": 195.72,
+    "end": 195.98
+  },
+  {
+    "word": " isso",
+    "start": 195.98,
+    "end": 196.2
+  },
+  {
+    "word": " piora",
+    "start": 196.2,
+    "end": 196.6
+  },
+  {
+    "word": " a",
+    "start": 196.6,
+    "end": 196.62
+  },
+  {
+    "word": " qualidade",
+    "start": 196.62,
+    "end": 196.96
+  },
+  {
+    "word": " do",
+    "start": 196.96,
+    "end": 197.18
+  },
+  {
+    "word": " governo",
+    "start": 197.18,
+    "end": 197.44
+  },
+  {
+    "word": " mas",
+    "start": 197.44,
+    "end": 197.76
+  },
+  {
+    "word": " é",
+    "start": 197.76,
+    "end": 197.92
+  },
+  {
+    "word": " um",
+    "start": 197.92,
+    "end": 198.0
+  },
+  {
+    "word": " governo",
+    "start": 198.0,
+    "end": 198.28
+  },
+  {
+    "word": " impopular",
+    "start": 198.28,
+    "end": 199.0
+  },
+  {
+    "word": " e",
+    "start": 199.0,
+    "end": 199.42
+  },
+  {
+    "word": " forte.",
+    "start": 199.42,
+    "end": 199.72
+  },
+  {
+    "word": " Agora",
+    "start": 200.0,
+    "end": 200.24
+  },
+  {
+    "word": " é",
+    "start": 200.24,
+    "end": 200.56
+  },
+  {
+    "word": " interessante",
+    "start": 200.56,
+    "end": 200.98
+  },
+  {
+    "word": " a",
+    "start": 200.98,
+    "end": 201.28
+  },
+  {
+    "word": " estratégia",
+    "start": 201.28,
+    "end": 201.92
+  },
+  {
+    "word": " adotada",
+    "start": 201.92,
+    "end": 202.42
+  },
+  {
+    "word": " por",
+    "start": 202.42,
+    "end": 202.7
+  },
+  {
+    "word": " Temer.",
+    "start": 202.7,
+    "end": 203.06
+  },
+  {
+    "word": " Ele",
+    "start": 203.56,
+    "end": 203.92
+  },
+  {
+    "word": " se",
+    "start": 203.92,
+    "end": 204.2
+  },
+  {
+    "word": " mantém",
+    "start": 204.2,
+    "end": 204.6
+  },
+  {
+    "word": " ali",
+    "start": 204.6,
+    "end": 204.94
+  },
+  {
+    "word": " impávido",
+    "start": 204.94,
+    "end": 205.88
+  },
+  {
+    "word": " como",
+    "start": 205.88,
+    "end": 206.14
+  },
+  {
+    "word": " se",
+    "start": 206.14,
+    "end": 206.42
+  },
+  {
+    "word": " nada",
+    "start": 206.42,
+    "end": 206.88
+  },
+  {
+    "word": " do",
+    "start": 206.88,
+    "end": 206.92
+  },
+  {
+    "word": " mundo",
+    "start": 206.92,
+    "end": 207.18
+  },
+  {
+    "word": " tivesse",
+    "start": 207.18,
+    "end": 207.56
+  },
+  {
+    "word": " a",
+    "start": 207.56,
+    "end": 207.68
+  },
+  {
+    "word": " ver",
+    "start": 207.68,
+    "end": 207.84
+  },
+  {
+    "word": " com",
+    "start": 207.84,
+    "end": 208.18
+  },
+  {
+    "word": " ele",
+    "start": 208.18,
+    "end": 208.66
+  },
+  {
+    "word": " como",
+    "start": 208.66,
+    "end": 208.92
+  },
+  {
+    "word": " se",
+    "start": 208.92,
+    "end": 209.16
+  },
+  {
+    "word": " todas",
+    "start": 209.16,
+    "end": 209.46
+  },
+  {
+    "word": " essas",
+    "start": 209.46,
+    "end": 209.84
+  },
+  {
+    "word": " denúncias",
+    "start": 209.84,
+    "end": 210.36
+  },
+  {
+    "word": " não",
+    "start": 210.36,
+    "end": 210.64
+  },
+  {
+    "word": " atingissem",
+    "start": 210.64,
+    "end": 211.76
+  },
+  {
+    "word": " ele",
+    "start": 211.76,
+    "end": 212.16
+  },
+  {
+    "word": " Ele",
+    "start": 212.16,
+    "end": 213.32
+  },
+  {
+    "word": " continua",
+    "start": 213.32,
+    "end": 213.32
+  },
+  {
+    "word": " firme",
+    "start": 213.32,
+    "end": 214.98
+  },
+  {
+    "word": " na",
+    "start": 214.98,
+    "end": 215.3
+  },
+  {
+    "word": " interlocução",
+    "start": 215.3,
+    "end": 216.08
+  },
+  {
+    "word": " com",
+    "start": 216.08,
+    "end": 216.7
+  },
+  {
+    "word": " o",
+    "start": 216.7,
+    "end": 216.88
+  },
+  {
+    "word": " congresso.",
+    "start": 216.88,
+    "end": 217.8
+  },
+  {
+    "word": " Ele",
+    "start": 218.6,
+    "end": 219.2
+  },
+  {
+    "word": " recebe",
+    "start": 219.2,
+    "end": 219.56
+  },
+  {
+    "word": " governadores",
+    "start": 219.56,
+    "end": 220.34
+  },
+  {
+    "word": " oferece",
+    "start": 220.34,
+    "end": 221.02
+  },
+  {
+    "word": " ajuda.",
+    "start": 221.02,
+    "end": 221.72
+  },
+  {
+    "word": " Semana",
+    "start": 222.06,
+    "end": 222.38
+  },
+  {
+    "word": " que",
+    "start": 222.38,
+    "end": 222.56
+  },
+  {
+    "word": " vem",
+    "start": 222.56,
+    "end": 222.66
+  },
+  {
+    "word": " vai",
+    "start": 222.66,
+    "end": 222.96
+  },
+  {
+    "word": " para",
+    "start": 222.96,
+    "end": 223.18
+  },
+  {
+    "word": " uma",
+    "start": 223.18,
+    "end": 223.38
+  },
+  {
+    "word": " viagem.",
+    "start": 223.38,
+    "end": 223.7
+  },
+  {
+    "word": " Mantenha",
+    "start": 223.74,
+    "end": 224.34
+  },
+  {
+    "word": " a",
+    "start": 224.34,
+    "end": 224.52
+  },
+  {
+    "word": " agenda",
+    "start": 224.52,
+    "end": 224.96
+  },
+  {
+    "word": " internacional.",
+    "start": 224.96,
+    "end": 225.86
+  },
+  {
+    "word": " Vai",
+    "start": 225.94,
+    "end": 226.04
+  },
+  {
+    "word": " para",
+    "start": 226.04,
+    "end": 226.18
+  },
+  {
+    "word": " a",
+    "start": 226.18,
+    "end": 226.4
+  },
+  {
+    "word": " Rússia,",
+    "start": 226.4,
+    "end": 226.54
+  },
+  {
+    "word": " Noruega",
+    "start": 226.58,
+    "end": 227.08
+  },
+  {
+    "word": " e",
+    "start": 227.08,
+    "end": 227.26
+  },
+  {
+    "word": " tal.",
+    "start": 227.26,
+    "end": 227.76
+  },
+  {
+    "word": " Como",
+    "start": 228.68,
+    "end": 228.84
+  },
+  {
+    "word": " se",
+    "start": 228.84,
+    "end": 228.98
+  },
+  {
+    "word": " ele",
+    "start": 228.98,
+    "end": 229.08
+  },
+  {
+    "word": " tivesse",
+    "start": 229.08,
+    "end": 229.3
+  },
+  {
+    "word": " no",
+    "start": 229.3,
+    "end": 229.48
+  },
+  {
+    "word": " melhor",
+    "start": 229.48,
+    "end": 229.86
+  },
+  {
+    "word": " dos",
+    "start": 229.86,
+    "end": 230.24
+  },
+  {
+    "word": " mundos.",
+    "start": 230.24,
+    "end": 231.12
+  },
+  {
+    "word": " Exatamente",
+    "start": 231.56,
+    "end": 232.16
+  },
+  {
+    "word": " com",
+    "start": 232.16,
+    "end": 232.38
+  },
+  {
+    "word": " a",
+    "start": 232.38,
+    "end": 232.6
+  },
+  {
+    "word": " ideia",
+    "start": 232.6,
+    "end": 232.92
+  },
+  {
+    "word": " de",
+    "start": 232.92,
+    "end": 233.18
+  },
+  {
+    "word": " mostrar",
+    "start": 233.18,
+    "end": 233.7
+  },
+  {
+    "word": " que",
+    "start": 233.7,
+    "end": 233.92
+  },
+  {
+    "word": " o",
+    "start": 233.92,
+    "end": 234.2
+  },
+  {
+    "word": " governo",
+    "start": 234.2,
+    "end": 234.74
+  },
+  {
+    "word": " continua",
+    "start": 234.74,
+    "end": 235.6
+  },
+  {
+    "word": " no",
+    "start": 235.6,
+    "end": 235.92
+  },
+  {
+    "word": " Brasil",
+    "start": 235.92,
+    "end": 236.24
+  },
+  {
+    "word": " não",
+    "start": 236.24,
+    "end": 236.4
+  },
+  {
+    "word": " está",
+    "start": 236.4,
+    "end": 236.58
+  },
+  {
+    "word": " parado",
+    "start": 236.58,
+    "end": 237.32
+  },
+  {
+    "word": " e",
+    "start": 237.32,
+    "end": 237.6
+  },
+  {
+    "word": " é",
+    "start": 237.6,
+    "end": 237.76
+  },
+  {
+    "word": " bola",
+    "start": 237.76,
+    "end": 237.88
+  },
+  {
+    "word": " para",
+    "start": 237.88,
+    "end": 238.18
+  },
+  {
+    "word": " frente.",
+    "start": 238.18,
+    "end": 238.56
+  },
+  {
+    "word": " Ele",
+    "start": 239.86,
+    "end": 240.12
+  },
+  {
+    "word": " está",
+    "start": 240.12,
+    "end": 240.36
+  },
+  {
+    "word": " conseguindo",
+    "start": 240.36,
+    "end": 240.86
+  },
+  {
+    "word": " isso.",
+    "start": 240.86,
+    "end": 241.08
+  },
+  {
+    "word": " A",
+    "start": 241.12,
+    "end": 241.24
+  },
+  {
+    "word": " imagem",
+    "start": 241.24,
+    "end": 241.82
+  },
+  {
+    "word": " de",
+    "start": 241.82,
+    "end": 242.1
+  },
+  {
+    "word": " Temer",
+    "start": 242.1,
+    "end": 244.12
+  },
+  {
+    "word": " consegue",
+    "start": 244.12,
+    "end": 245.1
+  },
+  {
+    "word": " melhorar",
+    "start": 245.1,
+    "end": 245.84
+  },
+  {
+    "word": " tanto",
+    "start": 245.84,
+    "end": 246.12
+  },
+  {
+    "word": " dentro",
+    "start": 246.12,
+    "end": 246.58
+  },
+  {
+    "word": " do",
+    "start": 246.58,
+    "end": 246.74
+  },
+  {
+    "word": " Brasil",
+    "start": 246.74,
+    "end": 247.08
+  },
+  {
+    "word": " como",
+    "start": 247.08,
+    "end": 247.7
+  },
+  {
+    "word": " fora",
+    "start": 247.7,
+    "end": 248.3
+  },
+  {
+    "word": " do",
+    "start": 248.3,
+    "end": 248.5
+  },
+  {
+    "word": " Brasil",
+    "start": 248.5,
+    "end": 248.72
+  },
+  {
+    "word": " em",
+    "start": 248.72,
+    "end": 248.92
+  },
+  {
+    "word": " função",
+    "start": 248.92,
+    "end": 249.14
+  },
+  {
+    "word": " de",
+    "start": 249.14,
+    "end": 249.44
+  },
+  {
+    "word": " todas",
+    "start": 249.44,
+    "end": 249.7
+  },
+  {
+    "word": " as",
+    "start": 249.7,
+    "end": 249.98
+  },
+  {
+    "word": " denúncias",
+    "start": 249.98,
+    "end": 250.42
+  },
+  {
+    "word": " que",
+    "start": 250.42,
+    "end": 250.54
+  },
+  {
+    "word": " o",
+    "start": 250.54,
+    "end": 250.74
+  },
+  {
+    "word": " atingem?",
+    "start": 250.74,
+    "end": 251.62
+  },
+  {
+    "word": " Ele",
+    "start": 251.9,
+    "end": 252.42
+  },
+  {
+    "word": " mostra",
+    "start": 252.42,
+    "end": 253.06
+  },
+  {
+    "word": " protagonismo",
+    "start": 253.06,
+    "end": 254.6
+  },
+  {
+    "word": " e",
+    "start": 254.6,
+    "end": 255.32
+  },
+  {
+    "word": " isso",
+    "start": 255.32,
+    "end": 255.64
+  },
+  {
+    "word": " é",
+    "start": 255.64,
+    "end": 255.86
+  },
+  {
+    "word": " muito",
+    "start": 255.86,
+    "end": 256.14
+  },
+  {
+    "word": " importante",
+    "start": 256.14,
+    "end": 256.66
+  },
+  {
+    "word": " quer",
+    "start": 256.66,
+    "end": 256.84
+  },
+  {
+    "word": " dizer",
+    "start": 256.84,
+    "end": 257.04
+  },
+  {
+    "word": " desde",
+    "start": 257.04,
+    "end": 257.44
+  },
+  {
+    "word": " os",
+    "start": 257.44,
+    "end": 257.84
+  },
+  {
+    "word": " primeiros",
+    "start": 257.84,
+    "end": 258.36
+  },
+  {
+    "word": " movimentos",
+    "start": 258.36,
+    "end": 259.3
+  },
+  {
+    "word": " o",
+    "start": 259.3,
+    "end": 259.74
+  },
+  {
+    "word": " presidente",
+    "start": 259.74,
+    "end": 260.02
+  },
+  {
+    "word": " foi",
+    "start": 260.02,
+    "end": 260.48
+  },
+  {
+    "word": " para",
+    "start": 260.48,
+    "end": 261.1
+  },
+  {
+    "word": " a",
+    "start": 261.1,
+    "end": 261.22
+  },
+  {
+    "word": " rede",
+    "start": 261.22,
+    "end": 261.38
+  },
+  {
+    "word": " de",
+    "start": 261.38,
+    "end": 261.6
+  },
+  {
+    "word": " televisão",
+    "start": 261.6,
+    "end": 261.9
+  },
+  {
+    "word": " e",
+    "start": 261.9,
+    "end": 262.1
+  },
+  {
+    "word": " falou",
+    "start": 262.1,
+    "end": 262.1
+  },
+  {
+    "word": " não",
+    "start": 262.1,
+    "end": 262.32
+  },
+  {
+    "word": " vou",
+    "start": 262.32,
+    "end": 262.54
+  },
+  {
+    "word": " renunciar",
+    "start": 262.54,
+    "end": 263.34
+  },
+  {
+    "word": " então",
+    "start": 263.34,
+    "end": 263.72
+  },
+  {
+    "word": " ele",
+    "start": 263.72,
+    "end": 263.94
+  },
+  {
+    "word": " já",
+    "start": 263.94,
+    "end": 264.3
+  },
+  {
+    "word": " se",
+    "start": 264.3,
+    "end": 264.76
+  },
+  {
+    "word": " posicionou",
+    "start": 264.76,
+    "end": 265.42
+  },
+  {
+    "word": " e",
+    "start": 265.42,
+    "end": 266.26
+  },
+  {
+    "word": " ele",
+    "start": 266.26,
+    "end": 266.54
+  },
+  {
+    "word": " é",
+    "start": 266.54,
+    "end": 266.72
+  },
+  {
+    "word": " muito",
+    "start": 266.72,
+    "end": 267.02
+  },
+  {
+    "word": " ativo",
+    "start": 267.02,
+    "end": 267.5
+  },
+  {
+    "word": " ele",
+    "start": 267.5,
+    "end": 267.76
+  },
+  {
+    "word": " é",
+    "start": 267.76,
+    "end": 267.9
+  },
+  {
+    "word": " proativo",
+    "start": 267.9,
+    "end": 268.36
+  },
+  {
+    "word": " ele",
+    "start": 268.36,
+    "end": 268.58
+  },
+  {
+    "word": " vai",
+    "start": 268.58,
+    "end": 268.88
+  },
+  {
+    "word": " atrás",
+    "start": 268.88,
+    "end": 269.16
+  },
+  {
+    "word": " ele",
+    "start": 269.16,
+    "end": 269.44
+  },
+  {
+    "word": " busca",
+    "start": 269.44,
+    "end": 269.74
+  },
+  {
+    "word": " apoio",
+    "start": 269.74,
+    "end": 270.08
+  },
+  {
+    "word": " nos",
+    "start": 270.08,
+    "end": 270.32
+  },
+  {
+    "word": " partidos.",
+    "start": 270.32,
+    "end": 271.1
+  },
+  {
+    "word": " Recentemente",
+    "start": 271.56,
+    "end": 271.88
+  },
+  {
+    "word": " o",
+    "start": 271.88,
+    "end": 272.14
+  },
+  {
+    "word": " PSDB",
+    "start": 272.14,
+    "end": 273.08
+  },
+  {
+    "word": " reiterou",
+    "start": 273.08,
+    "end": 273.88
+  },
+  {
+    "word": " seu",
+    "start": 273.88,
+    "end": 274.18
+  },
+  {
+    "word": " apoio",
+    "start": 274.18,
+    "end": 274.74
+  },
+  {
+    "word": " ao",
+    "start": 274.74,
+    "end": 275.3
+  },
+  {
+    "word": " governo",
+    "start": 275.3,
+    "end": 275.84
+  },
+  {
+    "word": " ele",
+    "start": 275.84,
+    "end": 276.5
+  },
+  {
+    "word": " procura",
+    "start": 276.5,
+    "end": 277.08
+  },
+  {
+    "word": " os",
+    "start": 277.08,
+    "end": 278.4
+  },
+  {
+    "word": " interlocutores",
+    "start": 278.4,
+    "end": 279.3
+  },
+  {
+    "word": " internacionais",
+    "start": 279.3,
+    "end": 280.08
+  },
+  {
+    "word": " fala",
+    "start": 280.08,
+    "end": 280.36
+  },
+  {
+    "word": " com",
+    "start": 280.36,
+    "end": 280.6
+  },
+  {
+    "word": " governador",
+    "start": 280.6,
+    "end": 281.2
+  },
+  {
+    "word": " tenta",
+    "start": 281.2,
+    "end": 282.44
+  },
+  {
+    "word": " resolver",
+    "start": 282.44,
+    "end": 283.0
+  },
+  {
+    "word": " o",
+    "start": 283.0,
+    "end": 283.2
+  },
+  {
+    "word": " problema",
+    "start": 283.2,
+    "end": 283.44
+  },
+  {
+    "word": " dos",
+    "start": 283.44,
+    "end": 283.68
+  },
+  {
+    "word": " municípios",
+    "start": 283.68,
+    "end": 284.26
+  },
+  {
+    "word": " dos",
+    "start": 284.26,
+    "end": 284.48
+  },
+  {
+    "word": " prefeitos",
+    "start": 284.48,
+    "end": 285.18
+  },
+  {
+    "word": " fala",
+    "start": 285.18,
+    "end": 285.58
+  },
+  {
+    "word": " com",
+    "start": 285.58,
+    "end": 285.78
+  },
+  {
+    "word": " os",
+    "start": 285.78,
+    "end": 285.9
+  },
+  {
+    "word": " deputados",
+    "start": 285.9,
+    "end": 286.4
+  },
+  {
+    "word": " fala",
+    "start": 286.4,
+    "end": 286.7
+  },
+  {
+    "word": " com",
+    "start": 286.7,
+    "end": 286.88
+  },
+  {
+    "word": " senadores",
+    "start": 286.88,
+    "end": 287.56
+  },
+  {
+    "word": " então",
+    "start": 287.56,
+    "end": 288.0
+  },
+  {
+    "word": " ele",
+    "start": 288.0,
+    "end": 288.2
+  },
+  {
+    "word": " é",
+    "start": 288.2,
+    "end": 288.46
+  },
+  {
+    "word": " protagonista",
+    "start": 288.46,
+    "end": 289.22
+  },
+  {
+    "word": " e",
+    "start": 289.22,
+    "end": 289.58
+  },
+  {
+    "word": " no",
+    "start": 289.58,
+    "end": 289.66
+  },
+  {
+    "word": " momento",
+    "start": 289.66,
+    "end": 290.08
+  },
+  {
+    "word": " de",
+    "start": 290.08,
+    "end": 290.38
+  },
+  {
+    "word": " crise",
+    "start": 290.38,
+    "end": 290.58
+  },
+  {
+    "word": " é",
+    "start": 290.58,
+    "end": 290.82
+  },
+  {
+    "word": " fundamental",
+    "start": 290.82,
+    "end": 291.46
+  },
+  {
+    "word": " para",
+    "start": 291.46,
+    "end": 291.76
+  },
+  {
+    "word": " que",
+    "start": 291.76,
+    "end": 292.24
+  },
+  {
+    "word": " essa",
+    "start": 292.24,
+    "end": 292.6
+  },
+  {
+    "word": " crise",
+    "start": 292.6,
+    "end": 292.94
+  },
+  {
+    "word": " seja",
+    "start": 292.94,
+    "end": 293.32
+  },
+  {
+    "word": " cada",
+    "start": 293.32,
+    "end": 293.64
+  },
+  {
+    "word": " vez",
+    "start": 293.64,
+    "end": 293.82
+  },
+  {
+    "word": " menor",
+    "start": 293.82,
+    "end": 294.18
+  },
+  {
+    "word": " para",
+    "start": 294.18,
+    "end": 294.34
+  },
+  {
+    "word": " Agora",
+    "start": 295.04,
+    "end": 295.42
+  },
+  {
+    "word": " o",
+    "start": 295.42,
+    "end": 295.7
+  },
+  {
+    "word": " PSDB.",
+    "start": 295.7,
+    "end": 296.48
+  },
+  {
+    "word": " Quero",
+    "start": 296.86,
+    "end": 297.04
+  },
+  {
+    "word": " ouvir",
+    "start": 297.04,
+    "end": 297.5
+  },
+  {
+    "word": " como",
+    "start": 297.5,
+    "end": 297.76
+  },
+  {
+    "word": " que",
+    "start": 297.76,
+    "end": 298.0
+  },
+  {
+    "word": " o",
+    "start": 298.0,
+    "end": 298.06
+  },
+  {
+    "word": " senhor",
+    "start": 298.06,
+    "end": 298.24
+  },
+  {
+    "word": " entendeu",
+    "start": 298.24,
+    "end": 298.94
+  },
+  {
+    "word": " a",
+    "start": 298.94,
+    "end": 299.9
+  },
+  {
+    "word": " decisão",
+    "start": 299.9,
+    "end": 300.32
+  },
+  {
+    "word": " do",
+    "start": 300.32,
+    "end": 300.52
+  },
+  {
+    "word": " PSDB",
+    "start": 300.52,
+    "end": 301.0
+  },
+  {
+    "word": " de",
+    "start": 301.0,
+    "end": 301.38
+  },
+  {
+    "word": " ficar",
+    "start": 301.38,
+    "end": 301.88
+  },
+  {
+    "word": " no",
+    "start": 301.88,
+    "end": 302.12
+  },
+  {
+    "word": " governo",
+    "start": 302.12,
+    "end": 302.88
+  },
+  {
+    "word": " foi",
+    "start": 302.88,
+    "end": 304.08
+  },
+  {
+    "word": " por",
+    "start": 304.08,
+    "end": 304.4
+  },
+  {
+    "word": " apego",
+    "start": 304.4,
+    "end": 304.9
+  },
+  {
+    "word": " ao",
+    "start": 304.9,
+    "end": 305.2
+  },
+  {
+    "word": " poder",
+    "start": 305.2,
+    "end": 305.76
+  },
+  {
+    "word": " o",
+    "start": 305.76,
+    "end": 306.08
+  },
+  {
+    "word": " PSDB",
+    "start": 306.08,
+    "end": 306.78
+  },
+  {
+    "word": " tem",
+    "start": 306.78,
+    "end": 307.08
+  },
+  {
+    "word": " uma",
+    "start": 307.08,
+    "end": 307.44
+  },
+  {
+    "word": " visão",
+    "start": 307.44,
+    "end": 307.9
+  },
+  {
+    "word": " demonstrou",
+    "start": 307.9,
+    "end": 309.16
+  },
+  {
+    "word": " visão",
+    "start": 309.16,
+    "end": 309.84
+  },
+  {
+    "word": " mais",
+    "start": 309.84,
+    "end": 310.4
+  },
+  {
+    "word": " de",
+    "start": 310.4,
+    "end": 310.7
+  },
+  {
+    "word": " longo",
+    "start": 310.7,
+    "end": 311.04
+  },
+  {
+    "word": " prazo",
+    "start": 311.04,
+    "end": 312.06
+  },
+  {
+    "word": " no",
+    "start": 312.06,
+    "end": 312.3
+  },
+  {
+    "word": " sentido",
+    "start": 312.3,
+    "end": 312.8
+  },
+  {
+    "word": " de",
+    "start": 312.8,
+    "end": 313.08
+  },
+  {
+    "word": " que",
+    "start": 313.08,
+    "end": 313.38
+  },
+  {
+    "word": " mantém",
+    "start": 313.38,
+    "end": 313.88
+  },
+  {
+    "word": " os",
+    "start": 313.88,
+    "end": 314.1
+  },
+  {
+    "word": " quatro",
+    "start": 314.1,
+    "end": 314.48
+  },
+  {
+    "word": " ministérios",
+    "start": 314.48,
+    "end": 315.4
+  },
+  {
+    "word": " principalmente",
+    "start": 315.4,
+    "end": 316.04
+  },
+  {
+    "word": " o",
+    "start": 316.04,
+    "end": 316.22
+  },
+  {
+    "word": " das",
+    "start": 316.22,
+    "end": 316.4
+  },
+  {
+    "word": " cidades",
+    "start": 316.4,
+    "end": 317.12
+  },
+  {
+    "word": " que",
+    "start": 317.12,
+    "end": 317.56
+  },
+  {
+    "word": " é",
+    "start": 317.56,
+    "end": 317.72
+  },
+  {
+    "word": " tão",
+    "start": 317.72,
+    "end": 317.96
+  },
+  {
+    "word": " importante",
+    "start": 317.96,
+    "end": 318.96
+  },
+  {
+    "word": " para",
+    "start": 318.96,
+    "end": 319.52
+  },
+  {
+    "word": " a",
+    "start": 319.52,
+    "end": 319.64
+  },
+  {
+    "word": " captação",
+    "start": 319.64,
+    "end": 320.06
+  },
+  {
+    "word": " de",
+    "start": 320.06,
+    "end": 320.3
+  },
+  {
+    "word": " votos",
+    "start": 320.3,
+    "end": 321.58
+  },
+  {
+    "word": " no",
+    "start": 321.58,
+    "end": 321.94
+  },
+  {
+    "word": " ano",
+    "start": 321.94,
+    "end": 322.12
+  },
+  {
+    "word": " que",
+    "start": 322.12,
+    "end": 322.32
+  },
+  {
+    "word": " vem.",
+    "start": 322.32,
+    "end": 322.54
+  },
+  {
+    "word": " Eu",
+    "start": 322.54,
+    "end": 323.12
+  },
+  {
+    "word": " acho",
+    "start": 323.12,
+    "end": 323.36
+  },
+  {
+    "word": " que",
+    "start": 323.36,
+    "end": 323.5
+  },
+  {
+    "word": " o",
+    "start": 323.5,
+    "end": 323.66
+  },
+  {
+    "word": " PSDB",
+    "start": 323.66,
+    "end": 324.08
+  },
+  {
+    "word": " por",
+    "start": 324.08,
+    "end": 324.44
+  },
+  {
+    "word": " enquanto",
+    "start": 324.44,
+    "end": 325.12
+  },
+  {
+    "word": " está",
+    "start": 325.12,
+    "end": 325.82
+  },
+  {
+    "word": " no",
+    "start": 325.82,
+    "end": 325.96
+  },
+  {
+    "word": " governo",
+    "start": 325.96,
+    "end": 326.36
+  },
+  {
+    "word": " por",
+    "start": 326.36,
+    "end": 326.74
+  },
+  {
+    "word": " causa",
+    "start": 326.74,
+    "end": 327.16
+  },
+  {
+    "word": " da",
+    "start": 327.16,
+    "end": 327.98
+  },
+  {
+    "word": " força",
+    "start": 327.98,
+    "end": 328.6
+  },
+  {
+    "word": " que",
+    "start": 328.6,
+    "end": 328.78
+  },
+  {
+    "word": " os",
+    "start": 328.78,
+    "end": 329.04
+  },
+  {
+    "word": " cargos",
+    "start": 329.04,
+    "end": 329.5
+  },
+  {
+    "word": " dão",
+    "start": 329.5,
+    "end": 330.32
+  },
+  {
+    "word": " ao",
+    "start": 330.32,
+    "end": 330.52
+  },
+  {
+    "word": " partido",
+    "start": 330.52,
+    "end": 330.88
+  },
+  {
+    "word": " afinal",
+    "start": 330.88,
+    "end": 331.5
+  },
+  {
+    "word": " partido",
+    "start": 331.5,
+    "end": 332.1
+  },
+  {
+    "word": " existe",
+    "start": 332.1,
+    "end": 332.6
+  },
+  {
+    "word": " para",
+    "start": 332.6,
+    "end": 332.86
+  },
+  {
+    "word": " ter",
+    "start": 332.86,
+    "end": 333.08
+  },
+  {
+    "word": " poder",
+    "start": 333.08,
+    "end": 333.52
+  },
+  {
+    "word": " e",
+    "start": 333.52,
+    "end": 333.82
+  },
+  {
+    "word": " o",
+    "start": 333.82,
+    "end": 334.0
+  },
+  {
+    "word": " PSDB",
+    "start": 334.0,
+    "end": 334.64
+  },
+  {
+    "word": " está",
+    "start": 334.64,
+    "end": 334.94
+  },
+  {
+    "word": " no",
+    "start": 334.94,
+    "end": 335.12
+  },
+  {
+    "word": " poder",
+    "start": 335.12,
+    "end": 335.46
+  },
+  {
+    "word": " e",
+    "start": 335.46,
+    "end": 336.14
+  },
+  {
+    "word": " também",
+    "start": 336.14,
+    "end": 336.34
+  },
+  {
+    "word": " se",
+    "start": 336.34,
+    "end": 336.52
+  },
+  {
+    "word": " o",
+    "start": 336.52,
+    "end": 336.62
+  },
+  {
+    "word": " PSDB",
+    "start": 336.62,
+    "end": 337.24
+  },
+  {
+    "word": " aposta",
+    "start": 337.24,
+    "end": 338.48
+  },
+  {
+    "word": " que",
+    "start": 338.48,
+    "end": 338.86
+  },
+  {
+    "word": " as",
+    "start": 338.86,
+    "end": 339.06
+  },
+  {
+    "word": " reformas",
+    "start": 339.06,
+    "end": 339.44
+  },
+  {
+    "word": " vão",
+    "start": 339.44,
+    "end": 339.66
+  },
+  {
+    "word": " ser",
+    "start": 339.66,
+    "end": 339.94
+  },
+  {
+    "word": " concluídas",
+    "start": 339.94,
+    "end": 340.46
+  },
+  {
+    "word": " e",
+    "start": 340.46,
+    "end": 340.62
+  },
+  {
+    "word": " que",
+    "start": 340.62,
+    "end": 340.78
+  },
+  {
+    "word": " a",
+    "start": 340.78,
+    "end": 340.94
+  },
+  {
+    "word": " situação",
+    "start": 340.94,
+    "end": 341.7
+  },
+  {
+    "word": " no",
+    "start": 341.7,
+    "end": 342.1
+  },
+  {
+    "word": " ano",
+    "start": 342.1,
+    "end": 342.32
+  },
+  {
+    "word": " que",
+    "start": 342.32,
+    "end": 342.54
+  },
+  {
+    "word": " vem",
+    "start": 342.54,
+    "end": 342.68
+  },
+  {
+    "word": " estará",
+    "start": 342.68,
+    "end": 343.16
+  },
+  {
+    "word": " melhor",
+    "start": 343.16,
+    "end": 343.58
+  },
+  {
+    "word": " ele",
+    "start": 343.58,
+    "end": 344.52
+  },
+  {
+    "word": " fará",
+    "start": 344.52,
+    "end": 344.92
+  },
+  {
+    "word": " parte",
+    "start": 344.92,
+    "end": 345.22
+  },
+  {
+    "word": " de",
+    "start": 345.22,
+    "end": 345.42
+  },
+  {
+    "word": " um",
+    "start": 345.42,
+    "end": 345.6
+  },
+  {
+    "word": " grupo",
+    "start": 345.6,
+    "end": 345.9
+  },
+  {
+    "word": " político",
+    "start": 345.9,
+    "end": 346.34
+  },
+  {
+    "word": " que",
+    "start": 346.34,
+    "end": 346.7
+  },
+  {
+    "word": " ajudou",
+    "start": 346.7,
+    "end": 347.02
+  },
+  {
+    "word": " a",
+    "start": 347.02,
+    "end": 347.2
+  },
+  {
+    "word": " consertar",
+    "start": 347.2,
+    "end": 347.56
+  },
+  {
+    "word": " o",
+    "start": 347.56,
+    "end": 347.7
+  },
+  {
+    "word": " Brasil",
+    "start": 347.7,
+    "end": 348.08
+  },
+  {
+    "word": " isso",
+    "start": 348.08,
+    "end": 348.64
+  },
+  {
+    "word": " é",
+    "start": 348.64,
+    "end": 348.96
+  },
+  {
+    "word": " interessante",
+    "start": 348.96,
+    "end": 349.54
+  },
+  {
+    "word": " do",
+    "start": 349.54,
+    "end": 349.78
+  },
+  {
+    "word": " ponto",
+    "start": 349.78,
+    "end": 350.02
+  },
+  {
+    "word": " Mas",
+    "start": 350.02,
+    "end": 350.92
+  },
+  {
+    "word": " não",
+    "start": 350.92,
+    "end": 351.26
+  },
+  {
+    "word": " é",
+    "start": 351.26,
+    "end": 351.36
+  },
+  {
+    "word": " uma",
+    "start": 351.36,
+    "end": 351.68
+  },
+  {
+    "word": " aposta",
+    "start": 351.68,
+    "end": 352.22
+  },
+  {
+    "word": " arriscada",
+    "start": 352.22,
+    "end": 353.68
+  },
+  {
+    "word": " o",
+    "start": 353.68,
+    "end": 354.36
+  },
+  {
+    "word": " PSDB",
+    "start": 354.36,
+    "end": 355.62
+  },
+  {
+    "word": " aliás",
+    "start": 355.62,
+    "end": 356.2
+  },
+  {
+    "word": " Miguel",
+    "start": 356.2,
+    "end": 356.66
+  },
+  {
+    "word": " Reale",
+    "start": 356.66,
+    "end": 357.08
+  },
+  {
+    "word": " Júnior",
+    "start": 357.08,
+    "end": 357.48
+  },
+  {
+    "word": " que",
+    "start": 357.48,
+    "end": 357.7
+  },
+  {
+    "word": " deixou",
+    "start": 357.7,
+    "end": 358.4
+  },
+  {
+    "word": " o",
+    "start": 358.4,
+    "end": 358.62
+  },
+  {
+    "word": " PSDB",
+    "start": 358.62,
+    "end": 359.09999999999997
+  },
+  {
+    "word": " falou",
+    "start": 359.84,
+    "end": 360.32
+  },
+  {
+    "word": " com",
+    "start": 360.32,
+    "end": 360.7
+  },
+  {
+    "word": " muita",
+    "start": 360.7,
+    "end": 361.02
+  },
+  {
+    "word": " clareza",
+    "start": 361.02,
+    "end": 361.5
+  },
+  {
+    "word": " que",
+    "start": 361.5,
+    "end": 361.64
+  },
+  {
+    "word": " no",
+    "start": 361.64,
+    "end": 361.76
+  },
+  {
+    "word": " entender",
+    "start": 361.76,
+    "end": 362.18
+  },
+  {
+    "word": " dele",
+    "start": 362.18,
+    "end": 362.64
+  },
+  {
+    "word": " o",
+    "start": 362.64,
+    "end": 362.86
+  },
+  {
+    "word": " PSDB",
+    "start": 362.86,
+    "end": 363.3
+  },
+  {
+    "word": " virou",
+    "start": 363.3,
+    "end": 363.64
+  },
+  {
+    "word": " as",
+    "start": 363.64,
+    "end": 363.76
+  },
+  {
+    "word": " costas",
+    "start": 363.76,
+    "end": 364.12
+  },
+  {
+    "word": " para",
+    "start": 364.12,
+    "end": 364.3
+  },
+  {
+    "word": " base",
+    "start": 364.3,
+    "end": 364.98
+  },
+  {
+    "word": " para",
+    "start": 364.98,
+    "end": 366.0
+  },
+  {
+    "word": " questão",
+    "start": 366.0,
+    "end": 366.38
+  },
+  {
+    "word": " ética",
+    "start": 366.38,
+    "end": 367.44
+  },
+  {
+    "word": " que",
+    "start": 367.44,
+    "end": 367.98
+  },
+  {
+    "word": " perdeu",
+    "start": 367.98,
+    "end": 368.36
+  },
+  {
+    "word": " o",
+    "start": 368.36,
+    "end": 368.66
+  },
+  {
+    "word": " discurso",
+    "start": 368.66,
+    "end": 369.84
+  },
+  {
+    "word": " então",
+    "start": 369.84,
+    "end": 370.26
+  },
+  {
+    "word": " o",
+    "start": 370.26,
+    "end": 370.5
+  },
+  {
+    "word": " PSDB",
+    "start": 370.5,
+    "end": 371.12
+  },
+  {
+    "word": " nesse",
+    "start": 371.12,
+    "end": 371.6
+  },
+  {
+    "word": " gesto",
+    "start": 371.6,
+    "end": 372.26
+  },
+  {
+    "word": " de",
+    "start": 372.26,
+    "end": 372.56
+  },
+  {
+    "word": " se",
+    "start": 372.56,
+    "end": 372.74
+  },
+  {
+    "word": " manter",
+    "start": 372.74,
+    "end": 373.18
+  },
+  {
+    "word": " mesmo",
+    "start": 373.18,
+    "end": 373.72
+  },
+  {
+    "word": " que",
+    "start": 373.72,
+    "end": 374.12
+  },
+  {
+    "word": " seja",
+    "start": 374.12,
+    "end": 374.48
+  },
+  {
+    "word": " condicionalmente",
+    "start": 374.48,
+    "end": 375.46
+  },
+  {
+    "word": " apresentou",
+    "start": 375.46,
+    "end": 376.38
+  },
+  {
+    "word": " lá",
+    "start": 376.38,
+    "end": 376.74
+  },
+  {
+    "word": " uma",
+    "start": 376.74,
+    "end": 377.08
+  },
+  {
+    "word": " condição",
+    "start": 377.08,
+    "end": 378.2
+  },
+  {
+    "word": " é",
+    "start": 378.2,
+    "end": 378.58
+  },
+  {
+    "word": " colocou",
+    "start": 378.58,
+    "end": 379.12
+  },
+  {
+    "word": " a",
+    "start": 379.12,
+    "end": 379.46
+  },
+  {
+    "word": " sobrevivência",
+    "start": 379.46,
+    "end": 380.28
+  },
+  {
+    "word": " eleitoral",
+    "start": 380.28,
+    "end": 381.14
+  },
+  {
+    "word": " dos",
+    "start": 381.14,
+    "end": 381.4
+  },
+  {
+    "word": " tucanos",
+    "start": 381.4,
+    "end": 381.9
+  },
+  {
+    "word": " em",
+    "start": 381.9,
+    "end": 382.22
+  },
+  {
+    "word": " risco",
+    "start": 382.22,
+    "end": 382.78
+  },
+  {
+    "word": " Olha",
+    "start": 383.8,
+    "end": 384.12
+  },
+  {
+    "word": " o",
+    "start": 384.12,
+    "end": 384.32
+  },
+  {
+    "word": " PSDB",
+    "start": 384.32,
+    "end": 384.78
+  },
+  {
+    "word": " vai",
+    "start": 384.78,
+    "end": 385.08
+  },
+  {
+    "word": " apresentar",
+    "start": 385.08,
+    "end": 385.78
+  },
+  {
+    "word": " uma",
+    "start": 385.78,
+    "end": 386.1
+  },
+  {
+    "word": " pauta",
+    "start": 386.1,
+    "end": 386.7
+  },
+  {
+    "word": " de",
+    "start": 386.7,
+    "end": 387.86
+  },
+  {
+    "word": " propostas",
+    "start": 387.86,
+    "end": 389.86
+  },
+  {
+    "word": " para",
+    "start": 389.86,
+    "end": 390.02
+  },
+  {
+    "word": " o",
+    "start": 390.02,
+    "end": 390.16
+  },
+  {
+    "word": " governo",
+    "start": 390.16,
+    "end": 390.6
+  },
+  {
+    "word": " na",
+    "start": 390.6,
+    "end": 391.24
+  },
+  {
+    "word": " Alemanha",
+    "start": 391.24,
+    "end": 392.58
+  },
+  {
+    "word": " o",
+    "start": 392.58,
+    "end": 392.92
+  },
+  {
+    "word": " partido",
+    "start": 392.92,
+    "end": 393.44
+  },
+  {
+    "word": " democrata",
+    "start": 393.44,
+    "end": 394.1
+  },
+  {
+    "word": " cristão",
+    "start": 394.1,
+    "end": 394.52
+  },
+  {
+    "word": " ganhou",
+    "start": 394.52,
+    "end": 394.82
+  },
+  {
+    "word": " eleição",
+    "start": 394.82,
+    "end": 395.28
+  },
+  {
+    "word": " convidou",
+    "start": 395.28,
+    "end": 395.94
+  },
+  {
+    "word": " o",
+    "start": 395.94,
+    "end": 396.24
+  },
+  {
+    "word": " partido",
+    "start": 396.24,
+    "end": 396.58
+  },
+  {
+    "word": " socialista",
+    "start": 396.58,
+    "end": 397.9
+  },
+  {
+    "word": " para",
+    "start": 397.9,
+    "end": 398.7
+  },
+  {
+    "word": " fazer",
+    "start": 398.7,
+    "end": 399.04
+  },
+  {
+    "word": " parte",
+    "start": 399.04,
+    "end": 399.34
+  },
+  {
+    "word": " do",
+    "start": 399.34,
+    "end": 399.56
+  },
+  {
+    "word": " governo",
+    "start": 399.56,
+    "end": 399.98
+  },
+  {
+    "word": " e",
+    "start": 399.98,
+    "end": 400.66
+  },
+  {
+    "word": " esse",
+    "start": 400.66,
+    "end": 400.94
+  },
+  {
+    "word": " partido",
+    "start": 400.94,
+    "end": 401.34
+  },
+  {
+    "word": " social",
+    "start": 401.34,
+    "end": 401.78
+  },
+  {
+    "word": " ele",
+    "start": 401.78,
+    "end": 402.94
+  },
+  {
+    "word": " convocou",
+    "start": 402.94,
+    "end": 404.42
+  },
+  {
+    "word": " seus",
+    "start": 404.42,
+    "end": 405.3
+  },
+  {
+    "word": " seus",
+    "start": 405.3,
+    "end": 405.5
+  },
+  {
+    "word": " militantes",
+    "start": 405.5,
+    "end": 406.0
+  },
+  {
+    "word": " para",
+    "start": 406.0,
+    "end": 406.22
+  },
+  {
+    "word": " votar",
+    "start": 406.22,
+    "end": 407.04
+  },
+  {
+    "word": " eu",
+    "start": 407.04,
+    "end": 407.34
+  },
+  {
+    "word": " acho",
+    "start": 407.34,
+    "end": 407.64
+  },
+  {
+    "word": " que",
+    "start": 407.64,
+    "end": 407.82
+  },
+  {
+    "word": " o",
+    "start": 407.82,
+    "end": 408.02
+  },
+  {
+    "word": " PSDB",
+    "start": 408.02,
+    "end": 409.02
+  },
+  {
+    "word": " ao",
+    "start": 409.02,
+    "end": 409.38
+  },
+  {
+    "word": " apresentar",
+    "start": 409.38,
+    "end": 410.66
+  },
+  {
+    "word": " uma",
+    "start": 410.66,
+    "end": 411.26
+  },
+  {
+    "word": " pauta",
+    "start": 411.26,
+    "end": 412.18
+  },
+  {
+    "word": " que",
+    "start": 412.18,
+    "end": 412.38
+  },
+  {
+    "word": " ele",
+    "start": 412.38,
+    "end": 412.58
+  },
+  {
+    "word": " quer",
+    "start": 412.58,
+    "end": 412.74
+  },
+  {
+    "word": " que",
+    "start": 412.74,
+    "end": 412.94
+  },
+  {
+    "word": " o",
+    "start": 412.94,
+    "end": 413.06
+  },
+  {
+    "word": " governo",
+    "start": 413.06,
+    "end": 413.32
+  },
+  {
+    "word": " siga",
+    "start": 413.32,
+    "end": 413.94
+  },
+  {
+    "word": " ele",
+    "start": 413.94,
+    "end": 414.28
+  },
+  {
+    "word": " se",
+    "start": 414.28,
+    "end": 414.54
+  },
+  {
+    "word": " credencia",
+    "start": 414.54,
+    "end": 415.14
+  },
+  {
+    "word": " para",
+    "start": 415.14,
+    "end": 415.52
+  },
+  {
+    "word": " ser",
+    "start": 415.52,
+    "end": 416.4
+  },
+  {
+    "word": " participante",
+    "start": 416.4,
+    "end": 417.44
+  },
+  {
+    "word": " dessa",
+    "start": 417.44,
+    "end": 417.96
+  },
+  {
+    "word": " melhora",
+    "start": 417.96,
+    "end": 418.34
+  },
+  {
+    "word": " do",
+    "start": 418.34,
+    "end": 418.52
+  },
+  {
+    "word": " Brasil",
+    "start": 418.52,
+    "end": 419.18
+  },
+  {
+    "word": " Encerrando",
+    "start": 419.18,
+    "end": 419.86
+  },
+  {
+    "word": " a",
+    "start": 419.86,
+    "end": 420.16
+  },
+  {
+    "word": " última",
+    "start": 420.16,
+    "end": 420.68
+  },
+  {
+    "word": " falando",
+    "start": 420.68,
+    "end": 421.12
+  },
+  {
+    "word": " em",
+    "start": 421.12,
+    "end": 421.38
+  },
+  {
+    "word": " aposta",
+    "start": 421.38,
+    "end": 422.08
+  },
+  {
+    "word": " quero",
+    "start": 422.08,
+    "end": 422.38
+  },
+  {
+    "word": " saber",
+    "start": 422.38,
+    "end": 422.68
+  },
+  {
+    "word": " qual",
+    "start": 422.68,
+    "end": 422.88
+  },
+  {
+    "word": " é",
+    "start": 422.88,
+    "end": 423.04
+  },
+  {
+    "word": " a",
+    "start": 423.04,
+    "end": 423.28
+  },
+  {
+    "word": " sua",
+    "start": 423.28,
+    "end": 423.74
+  },
+  {
+    "word": " temercai",
+    "start": 423.74,
+    "end": 424.78000000000003
+  },
+  {
+    "word": " ou",
+    "start": 425.48,
+    "end": 426.12
+  },
+  {
+    "word": " vai",
+    "start": 426.12,
+    "end": 426.38
+  },
+  {
+    "word": " até",
+    "start": 426.38,
+    "end": 426.66
+  },
+  {
+    "word": " dezembro",
+    "start": 426.66,
+    "end": 427.16
+  },
+  {
+    "word": " de",
+    "start": 427.16,
+    "end": 427.4
+  },
+  {
+    "word": " 2018",
+    "start": 427.4,
+    "end": 428.24
+  },
+  {
+    "word": " como",
+    "start": 428.24,
+    "end": 428.52
+  },
+  {
+    "word": " ele",
+    "start": 428.52,
+    "end": 428.84
+  },
+  {
+    "word": " próprio",
+    "start": 428.84,
+    "end": 429.16
+  },
+  {
+    "word": " a",
+    "start": 429.16,
+    "end": 429.38
+  },
+  {
+    "word": " pregoa",
+    "start": 429.38,
+    "end": 430.08
+  },
+  {
+    "word": " Vou",
+    "start": 430.08,
+    "end": 430.3
+  },
+  {
+    "word": " contar",
+    "start": 430.3,
+    "end": 430.62
+  },
+  {
+    "word": " uma",
+    "start": 430.62,
+    "end": 430.9
+  },
+  {
+    "word": " historinha",
+    "start": 430.9,
+    "end": 431.14
+  },
+  {
+    "word": " para",
+    "start": 431.14,
+    "end": 431.34
+  },
+  {
+    "word": " você.",
+    "start": 431.34,
+    "end": 431.62
+  },
+  {
+    "word": " Bem",
+    "start": 431.72,
+    "end": 431.72
+  },
+  {
+    "word": " rápido",
+    "start": 431.72,
+    "end": 432.06
+  },
+  {
+    "word": " nosso",
+    "start": 432.06,
+    "end": 432.38
+  },
+  {
+    "word": " tempo",
+    "start": 432.38,
+    "end": 432.64
+  },
+  {
+    "word": " terminou.",
+    "start": 432.64,
+    "end": 432.98
+  },
+  {
+    "word": " Tinha",
+    "start": 433.0,
+    "end": 433.0
+  },
+  {
+    "word": " o",
+    "start": 433.0,
+    "end": 433.2
+  },
+  {
+    "word": " lateral",
+    "start": 433.2,
+    "end": 433.4
+  },
+  {
+    "word": " esquerdo",
+    "start": 433.4,
+    "end": 433.92
+  },
+  {
+    "word": " do",
+    "start": 433.92,
+    "end": 434.22
+  },
+  {
+    "word": " náutico",
+    "start": 434.22,
+    "end": 434.66
+  },
+  {
+    "word": " que",
+    "start": 434.66,
+    "end": 434.86
+  },
+  {
+    "word": " falava",
+    "start": 434.86,
+    "end": 435.16
+  },
+  {
+    "word": " assim",
+    "start": 435.16,
+    "end": 435.4
+  },
+  {
+    "word": " prognóstico",
+    "start": 435.4,
+    "end": 436.14
+  },
+  {
+    "word": " só",
+    "start": 436.14,
+    "end": 436.34
+  },
+  {
+    "word": " depois",
+    "start": 436.34,
+    "end": 436.68
+  },
+  {
+    "word": " da",
+    "start": 436.68,
+    "end": 436.92
+  },
+  {
+    "word": " partida.",
+    "start": 436.92,
+    "end": 437.46
+  },
+  {
+    "word": " Tá",
+    "start": 438.3,
+    "end": 438.48
+  },
+  {
+    "word": " ótimo,",
+    "start": 438.48,
+    "end": 439.38
+  },
+  {
+    "word": " pelo",
+    "start": 439.6,
+    "end": 439.82
+  },
+  {
+    "word": " menos",
+    "start": 439.82,
+    "end": 440.1
+  },
+  {
+    "word": " é",
+    "start": 440.1,
+    "end": 440.3
+  },
+  {
+    "word": " bem",
+    "start": 440.3,
+    "end": 440.58
+  },
+  {
+    "word": " confortável",
+    "start": 440.58,
+    "end": 441.46
+  },
+  {
+    "word": " a",
+    "start": 441.46,
+    "end": 441.7
+  },
+  {
+    "word": " exposição.",
+    "start": 441.7,
+    "end": 442.44
+  },
+  {
+    "word": " Uma",
+    "start": 442.86,
+    "end": 442.96
+  },
+  {
+    "word": " boa",
+    "start": 442.96,
+    "end": 443.14
+  },
+  {
+    "word": " noite,",
+    "start": 443.14,
+    "end": 443.4
+  },
+  {
+    "word": " muito",
+    "start": 443.6,
+    "end": 443.72
+  },
+  {
+    "word": " obrigada.",
+    "start": 443.72,
+    "end": 444.14
+  },
+  {
+    "word": " Boa",
+    "start": 444.16,
+    "end": 444.44
+  },
+  {
+    "word": " noite.",
+    "start": 444.44,
+    "end": 444.68
+  },
+  {
+    "word": " Muito",
+    "start": 445.5,
+    "end": 445.68
+  },
+  {
+    "word": " bem,",
+    "start": 445.68,
+    "end": 445.96
+  },
+  {
+    "word": " voltando",
+    "start": 446.12,
+    "end": 446.38
+  },
+  {
+    "word": " com",
+    "start": 446.38,
+    "end": 446.58
+  },
+  {
+    "word": " você",
+    "start": 446.58,
+    "end": 446.86
+  },
+  {
+    "word": " Gabriel.",
+    "start": 446.86,
+    "end": 447.26
+  }
+]
